@@ -1,0 +1,394 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FREE_UK_Standard_Delivery_over_Â£100  FREE_Returns
+FREE_UK_Standard_Delivery_over_Â£100
+ GBP_(£)
+
+It looks like you're in New Zealand.
+If we got it wrong, please pick your country and language below
+ Location  [One of: New Zealand/Sweden/Macedonia/Czech Republic/Luxembourg/
+Greece/Denmark/Germany/Serbia/Singapore/Ireland/Estonia/France/United States/
+Romania/Malaysia/Montenegro/Croatia/Kuwait/Italy/Indonesia/United Kingdom/
+Latvia/United Arab Emirates/Israel/Hungary/Gibraltar/Hong Kong/Portugal/
+Slovenia/Spain/South Africa/Saudi Arabia/Canada/Australia/Finland/Switzerland/
+India/Monaco/Bulgaria/Japan/Netherlands/Belgium/Poland/Lithuania/Slovakia/
+Bosnia and Herzegovina/Norway/Malta/Iceland/Bahrain/Austria/Cyprus]
+
+ Language  [One of: English]
+ Currency  [One of: GBP £]
+ Save and Continue
+×
+It looks like you're in New Zealand.
+If we got it wrong, please pick your country and language below
+ Location  [One of: New Zealand/Sweden/Macedonia/Czech Republic/Luxembourg/
+Greece/Denmark/Germany/Serbia/Singapore/Ireland/Estonia/France/United States/
+Romania/Malaysia/Montenegro/Croatia/Kuwait/Italy/Indonesia/United Kingdom/
+Latvia/United Arab Emirates/Israel/Hungary/Gibraltar/Hong Kong/Portugal/
+Slovenia/Spain/South Africa/Saudi Arabia/Canada/Australia/Finland/Switzerland/
+India/Monaco/Bulgaria/Japan/Netherlands/Belgium/Poland/Lithuania/Slovakia/
+Bosnia and Herzegovina/Norway/Malta/Iceland/Bahrain/Austria/Cyprus]
+
+ Language  [One of: English]
+ Currency  [One of: AUD A$]
+ View our Styles
+
+[Phase_Eight]
+[Unknown INPUT type] Clear_search
+
+***** Trending Now: *****
+    * Trending Now:
+    * 346ln
+    * |
+    * sheldon
+    * |
+    * jumpers
+    * |
+    * fur
+    * |
+    * coat
+    * |
+    * clutch_bags
+    * |
+    * chiffon_overlay_dress
+    * Trending Now:
+    * 346ln
+    * |
+    * sheldon
+    * |
+    * jumpers
+ Clear
+
+ Wishlist
+
+Added to Wishlist
+
+Removed from Wishlist
+ Sign_In
+ Stores
+ Bag__0
+
+Menu
+[Phase_Eight]
+  Close
+[Unknown INPUT type] Clear_search
+   Back
+   Back
+   Back
+   Back
+   Back
+   Back
+   Back
+   Back
+    * What's_New
+          o Shop_By
+                # New_This_Week
+                # The_£89_Dress_Edit
+                # Bestsellers
+                # New_Dresses
+                # New_Accessories
+                # New_Plus_Size
+                # Coming_Soon
+          o EDITORIALS
+                # Bridesmaids
+                # Wedding_Dresses
+                # Mother_of_the_Bride
+                # Daywear_Edit
+                # Holiday_Shop
+[Shop_New_In]
+New_In
+[Shop_New_Dresses]
+New_Dresses
+[New_Accessories]
+New_Accessories
+Dresses
+    * Dresses
+          o All_Dresses
+          o Occasion_Dresses
+          o Work_Dresses
+          o Dresses_&_Jackets
+          o Sleeved_Dresses
+          o Floral_Dresses
+          o Maxi_Dresses
+          o Black_Tie_Dresses
+          o Collection_8
+          o Knitted_Dresses
+          o Plus_Size_Dresses
+          o Maternity_Dresses
+All_Clothing
+    * Clothing
+          o All_Clothing
+          o Dresses
+          o Jumpsuits
+          o Knitwear
+          o Jackets
+          o Coats
+          o Tops_&_Blouses
+          o Trousers
+          o Jeans_&_Jeggings
+          o Swimwear
+          o Suits_&_Co-Ords
+          o Skirts
+          o Maternity
+    * Dresses
+          o All_Dresses
+          o Occasion_Dresses
+          o Work_Dresses
+          o Dresses_&_Jackets
+          o Sleeved_Dresses
+          o Floral_Dresses
+          o Maxi_Dresses
+          o Black_Tie_Dresses
+          o Collection_8
+          o Knitted_Dresses
+          o Plus_Size_Dresses
+          o Maternity_Dresses
+    * EDITS
+          o Bridesmaids
+          o Wedding_Dresses
+          o Mother_of_the_Bride
+          o Daywear_Edit
+          o Holiday_Shop
+    * Brands_We_Love
+          o All_Brands
+          o M_Life
+          o Damsel_In_a_Dress
+          o Hobbs_Footwear
+          o Carvela_Kurt_Geiger
+          o Johnstons_of_Elgin
+          o Seraphine
+          o This_Works
+[Shop_Knitwear]
+Shop_Knitwear
+Wedding
+    * SHOP_BY
+          o Wedding_Dresses
+          o Bridesmaid_Dresses
+          o Wedding_Accessories
+          o Mother_of_the_Bride
+    * EDITORIALS
+          o Wedding_Guest_Style
+          o SS20_Bridal_Collection
+          o Honeymoon_Outfits
+[SS20_Bridal_Collection]
+SS20_Bridal_Collection
+[Mother_of_the_Bride]
+Mother_of_the_Bride
+[Wedding_Guest_Style]
+Wedding_Guest_Style
+Shoes_&_Accessories
+    * Shoes
+          o All_Shoes
+          o Boots
+          o Heels
+          o Flats
+          o Trainers
+    * Accessories
+          o All_Accessories_
+          o Fascinators_&_Hats_
+          o Jewellery_
+          o Scarves_&_Wraps_
+          o Gloves
+    * Bags
+          o All_Bags
+          o Clutches
+          o Purses
+[Shoes]
+Shoes
+[Fashinators_&_Hats]
+Fascinators_&_Hats
+Plus_Size
+    * Shop_By
+          o New_Plus_Size
+          o Coming_Soon
+    * Clothing
+          o All_Clothing
+          o Dresses
+          o Knitwear
+          o Coats_&_Jackets
+          o Tops
+          o Trousers_&_Skirts
+    * Edits
+          o Wedding_Guest
+          o Bridesmaid_Dresses
+          o Premium_Collection
+          o Occasionwear
+          o Workwear
+          o Wardrobe_Essentials
+    * Shop_by_Size
+          o Size_16
+          o Size_18
+          o Size_20
+          o Size_22
+          o Size_24
+          o Size_26
+[Plus_Size_Dresses]
+Plus_Size_Dresses
+Inspire
+    * Inspire
+          o Spring_Dress_Destination
+          o Winter_Swim
+          o Wedding_Guest_Style
+          o SS20_Bridal_Collection
+          o Instagram_Shop
+          o Read_all_features
+[Wedding_Guest_Outfits]
+Wedding_Guest_Outfits
+[Winter_Swim]
+Winter_Swim
+[Bridal_Collection]
+Bridal_Collection
+Sale
+    * Sale_Clothing
+          o All_Sale
+          o Sale_Dresses
+          o Sale_Trousers_&_Jeans
+          o Sale_Knitwear
+          o Sale_Tops
+          o Sale_Coats_&_Jackets
+          o Sale_Jumpsuits
+          o Sale_Shoes
+          o Sale_Skirts
+          o Sale_Swimwear
+          o Clearance
+          o Plus_Size_Sale
+    * Sale_Accessories
+          o Sale_All_Accessories
+          o Sale_Bags
+          o Sale_Fascinators_&_Hats
+          o Sale_Jewellery
+          o Sale_Shoes
+    * Shop_by_Size
+          o Size_06
+          o Size_08
+          o Size_10
+          o Size_12
+          o Size_14
+          o Size_16
+          o Size_18
+          o Size_20
+          o Size_22
+          o Size_24
+          o Size_26
+    * Shop_by_Price
+          o £35_&_under
+          o £50_&_under
+          o £75_&_under
+          o £100_&_under
+    * [Shop_Now]
+      Shop_Now
+ Sign_In
+ Stores
+ Wishlist
+ GBP_(£)
+
+   1. Home
+   2. About Us
+   3. Corporate Responsibility
+[Corporate Responsibility]
+****** Corporate Responsibility ******
+****** Corporate Responsibility ******
+*** Gender Pay Policy ***
+We are proud of our diverse
+workforce, employing people of
+different ages and backgrounds. We
+support this policy through fair pay,
+and are confident that women and men
+are paid equally for equivalent jobs.
+Our_Pay_Policy
+Previous Statements
+
+Gender_Pay_Policy_2018
+*** Tax Strategy ***
+TFG London is proud to be a
+responsible and compliant taxpayer in
+the countries where we operate, and
+we are committed to paying UK
+corporation tax in line with all of the
+requirements and the best practice.
+Our_Tax_Strategy
+Previous Statements
+
+Tax_Strategy_2018
+*** Modern Slavery Act ***
+We do not operate our own factories
+but ask all suppliers to commit to our
+Code of Conduct, aligned with the
+Ethical Trading Initiative base code, to
+prevent slavery, child labour and
+human trafficking.
+Our_Statement
+Previous Statements
+
+Modern_Slavery_Act_2018
+ Call_us_on:_020_8877_4001
+ Store_Locator
+ Track_Order
+ Delivery
+ Returns
+Track_Your_Order
+subscribe to our newsletter
+[Unknown INPUT type]
+   label.subscribe.email.button.text
+Returns
+Here_to_Help
+    * Contact_Us
+    * Delivery_&_Collection
+    * FAQs
+    * Returns
+    * Track_Your_Order
+Shopping
+    * Store_Locator
+    * Size_Guides
+    * Gift_Cards
+    * Personal_Styling
+    * Refer_a_Friend
+About_Us
+    * Our_Story
+    * Corporate_Responsibility
+    * Careers
+    * Affiliates
+    * Reviews
+Legal
+    * Terms_&_Conditions
+    * Competitions_&_Offers
+    * Privacy_Policy
+    * Modern_Slavery_Statement
+    * Cookies
+    * Fraudulent_Websites
+    * Accessibility
+Â© 2020 Phase Eight (Fashion & Designs) Limited
+
+[Feefo_logo]
+[GoDaddy._Verify_&_Secured._Verify_security]
+Â© 2020 Phase Eight (Fashion & Designs) Limited
+
+By using the Phase Eight website you accept our cookies policy. Find_out_more,
+including how you can opt out of the use of cookies.
+ ACCEPT & CLOSE
+

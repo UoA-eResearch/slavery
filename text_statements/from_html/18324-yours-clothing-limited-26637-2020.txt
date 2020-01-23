@@ -1,0 +1,740 @@
+[Shop_BadRhino_>]
+Sign_Up_/_Sign_InManage_Account
+|
+Saved_Items
+|
+My_bag:_(0)_-_Â£0.00
+Loading
+ Store Finder
+Toggle navigation
+Yours Clothing
+26 Years of Loving Curves
+Google+YoutubeTwitterFacebookInstagramPinterest
+Item has been saved
+[q                   ]
+[Loading]
+Searching
+Shop by Category
+    * New_In
+          o     # NEW_IN_Clothing
+                # NEW_IN_Outfits
+                # NEW_IN_Lingerie_&_Nightwear
+                # NEW_IN_Footwear_&_Accessories
+                # NEW_IN_Maternity
+                # NEW_IN_Brands
+                # Bestsellers
+                # Coming_Soon
+                # Online_Exclusive
+                # Shop_Trends
+          o     # Shop By Size
+                # Size_14
+                # Size_16
+                # Size_18
+                # Size_20
+                # Size_22
+                # Size_24
+                # Size_26
+                # Size_28
+                # Size_30
+                # Size_32
+                # Size_34
+                # Size_36
+                # Size_38
+                # Size_40
+          o [New_In_]
+    * What's_Hot
+          o     # Shop Collections
+                # Back_To_Basics
+                # Denim_Collection
+                # Going_Out-Out
+                # Holiday_Shop
+                # Jeans_&_A_Nice_Top
+                # Occasion_Wear
+                # Online_Exclusive
+                # Party_Wear_-_Up_To_70%_Off
+                # The_Wedding_Collection
+                # Valentine's_Day_Edit
+                # Winter_Winners
+                # Workwear
+                # Find_Your_Perfect_Jeans
+                # Shop Trends
+                # Animal
+                # Athleisure
+                # Checks
+                # Florals
+                # Pastels
+                # Rock_Chick
+                # BLOG
+                # SHOP_TRENDS
+          o     # Brands
+                # Bump_It_Up_Maternity
+                # Chi_Chi_London
+                # Hell_Bunny
+                # Izabel_Curve
+                # KOKO
+                # Limited_Collection
+                # Lovedrobe
+                # LUXE
+                # Praslin
+                # Size_Up
+                # Yours_London
+          o [What's_Hot_]
+    * Clothing
+          o     # Categories
+                # Blouses_&_Shirts
+                # Coats_&_Jackets
+                # Dresses
+                # Jeans
+                # Jeggings
+                # Jumpsuits_&_Dungarees
+                # Kimonos,_Cardigans_&_Shrugs
+                # Knitwear
+                # Leggings
+                # Maternity
+                # Shorts
+                # Skirts
+                # Sweats,_Hoodies_&_Fleeces
+                # Swimwear_&_Beachwear
+                # T-Shirts
+                # Tops
+                # Trousers
+                # Trousers_-_Cropped
+                # Vests_&_Camis
+                # Activewear
+                # Gift_Cards
+          o     # Dresses
+                # Everyday_Wear
+                # Occasion_Wear
+                # Black_Dresses
+                # Evening_Dresses
+                # Maxi_Dresses
+                # Midi_Dresses
+                # Party_Dresses
+                # Pinafore_Dresses
+                # Skater_Dresses
+                # Sleeved_Dresses
+                # Swing_Dresses
+                # Wrap_Dresses
+                # VIEW_ALL_DRESSES
+          o     # Tops
+                # Everyday_Wear
+                # Occasion_Wear
+                # Basic_T-Shirts_&_Vests
+                # Blouses_&_Shirts
+                # Bardot_&_Cold_Shoulder_Tops
+                # Kimonos,_Cardigans_&_Shrugs
+                # Jersey_Tops
+                # Knitted_Tops_&_Jumpers
+                # Longline_Tops
+                # Party_Tops
+                # Smart_Jersey_Tops
+                # Sweat_Tops
+                # T-Shirts
+                # Tunics
+                # Vests_&_Camis
+                # Wrap_Tops
+                # VIEW_ALL_TOPS
+          o     # Bottoms
+                # Cropped_Trousers
+                # Culottes
+                # Harems
+                # Jeans
+                # Jeggings
+                # Joggers
+                # Leggings
+                # Printed_Trousers
+                # Skinny_Jeans
+                # Skirts
+                # Shorts
+                # Trousers
+                # Wide_Leg_&_Palazzo
+                # VIEW_ALL_BOTTOMS
+          o     # Collections
+                # Back_To_Basics
+                # Denim_Collection
+                # Going_Out-Out
+                # Holiday_Shop
+                # Jeans_&_A_Nice_Top
+                # Occasion_Wear
+                # Online_Exclusive
+                # Party_Wear_-_Up_To_70%_Off
+                # The_Wedding_Collection
+                # Valentine's_Day_Edit
+                # Winter_Winners
+                # Workwear
+                # Find_your_Perfect_Jeans
+                # Trends
+                # Animal
+                # Athleisure
+                # Checks
+                # Florals
+                # Pastels
+                # Rock_Chick
+                # BLOG
+                # SHOP_TRENDS
+          o     # Shop by Size
+                # Size_14
+                # Size_16
+                # Size_18
+                # Size_20
+                # Size_22
+                # Size_24
+                # Size_26
+                # Size_28
+                # Size_30
+                # Size_32
+                # Size_34
+                # Size_36
+                # Size_38
+                # Size_40
+    * Lingerie_&_Nightwear
+          o     # Categories
+                # Bras
+                # Knickers
+                # Lingerie_Sets
+                # Multipacks
+                # Shapewear
+                # Tights_&_Socks
+                # VIEW_ALL_LINGERIE
+          o     # Bras
+                # Balcony_Bras
+                # Lingerie_Sets
+                # Multipack_Bras
+                # Multiway_&_Strapless_Bras
+                # Non-Wired_Bras
+                # Push_Up_Bras
+                # T-Shirt_Bras
+                # Underwired_Bras
+                # BRA_FIT_GUIDE
+                # VIEW_ALL_BRAS
+                # Shop By Size
+            Bra Size: [One of: Select Cup Size/36D/36E/38C/38D/38DD/38E/38F/
+            38G/38H/40B/40C/40D/40DD/40E/40F/40G/40H/40J/42B/42C/42D/42DD/42E/
+            42F/42G/42H/42J/44B/44C/44D/44DD/44E/44F/44G/44H/44J/46B/46C/46D/
+            46DD/46E/46F/46G/46H/46J/48B/48C/48D/48DD/48E/48F/48G/48H/48J/50B/
+            50C/50D/50DD/50E/50F/50G/50H/50J/52C/52D/52DD/52E/52F/52G/52H/52J/
+            54C/54D/54DD/54E/54F/54G/54H/54J/56DD/56E/56C/56G/56D/56H/56F/56J/
+            58B/58D/58C/58DD/58E/58F/58G/58H/58J/60B/60C/60D/60DD/60E/60F/60G/
+            60H/60J]
+            Bra Cup Size: [One of: Select Cup Size/B/C/D/DD/E/F/G/H/J]
+          o     # Knickers
+                # Briefs
+                # High_Waisted
+                # Shorts
+                # Thigh_Smoothers
+                # Thongs
+                # Multipacks
+                # VIEW_ALL_KNICKERS
+          o     # Nightwear
+                # Dressing_Gowns
+                # Loungewear
+                # Nightdresses_&_Chemises
+                # Pyjamas
+                # Slippers
+                # VIEW_ALL_NIGHTWEAR
+    * Footwear
+          o     # Category
+                # Ankle_Boots
+                # Boots
+                # Court_Shoes
+                # Evening_Shoes
+                # Flat_Shoes
+                # Heels
+                # Knee_High_Boots
+                # Platforms_&_Wedges
+                # Sandals
+                # Slippers
+                # Trainers
+                # Wellies
+                # Wide_Calf_Boots
+                # VIEW_ALL_WIDE_FIT_SHOES
+          o     # Shop By Size
+                # Size_5
+                # Size_6
+                # Size_7
+                # Size_8
+                # Size_9
+                # Size_10
+          o [Footwear]
+    * Accessories
+          o     # Bags & Purses
+                # Cross_Body_Bags
+                # Beach_Bags
+                # Clutch_Bags
+                # Purses
+                # Shopper_&_Tote_Bags
+                # Shoulder_Bags
+                # VIEW_ALL_BAGS
+          o     # Jewellery
+                # Bracelets
+                # Earrings
+                # Necklaces
+                # Rings
+                # Sets
+                # VIEW_ALL_JEWELLERY
+          o     # Tights & Socks
+                # Socks
+                # Stockings_&_Hold_Ups
+                # Tights
+                # VIEW_ALL_TIGHTS
+          o     # Accessories
+                # Belts
+                # Gifts
+                # Gloves
+                # Hats
+                # Scarves
+                # Sunglasses
+                # VIEW_ALL_ACCESSORIES
+          o [Accessories]
+    * Brands
+          o     # Brands
+                # Bump_It_Up_Maternity
+                # Chi_Chi_London
+                # Hell_Bunny
+                # Izabel_Curve
+                # KOKO
+                # Limited_Collection
+                # Lovedrobe
+                # LUXE
+                # Praslin
+                # Size_Up
+                # Yours_London
+                # VIEW_ALL_BRANDS
+          o [Brands]
+    * Sale
+          o     # Sale By Category
+                # Accessories
+                # Activewear
+                # Blouses_&_Shirts
+                # Coats_&_Jackets
+                # Footwear
+                # Dresses
+                # Jeans
+                # Jeggings
+                # Jumpsuits_&_Dungarees
+                # Kimonos,_Cardigans_&_Shrugs
+                # Knitwear
+                # Leggings
+                # Lingerie
+                # Maternity
+                # Nightwear
+                # Shorts
+                # Skirts
+                # Sweats,_Hoodies_&_Fleeces
+                # Swimwear_&_Beachwear
+                # T-Shirts
+                # Tops
+                # Trousers
+                # Trousers_-_Cropped
+                # Vests_&_Camis
+                # View_All
+          o     # Sale By Size
+                # Size_16
+                # Size_18
+                # Size_20
+                # Size_22
+                # Size_24
+                # Size_26
+                # Size_28
+                # Size_30
+                # Size_32
+                # Size_34
+                # Size_36
+                # Size_38
+                # Size_40
+          o     # Sale By Percentage
+                # Up_To_90%_Off
+                # Up_To_70%_Off
+                # Up_To_50%_Off
+                # Up_To_30%_Off
+          o     # Sale By Price
+                # Under_Â£5
+                # Under_Â£10
+                # Under_Â£20
+                # Under_Â£30
+                # Under_Â£40
+                # Under_Â£50
+                # Under_Â£75
+                # Under_Â£100
+          o [Sale]
+    * Men
+          o     # Shop By Category
+                # Coats_&_Jackets
+                # Fleeces
+                # Footwear
+                # Hoodies
+                # Jeans
+                # Joggers
+                # Jumpers_&_Cardigans
+                # Polo_Shirts
+                # Pyjamas
+                # Shirts
+                # Shorts
+                # Sweatshirts
+                # T-Shirts
+                # Suits
+                # Trousers_&_Chinos
+                # Vests
+                # Coming_Soon
+                # VIEW_ALL
+          o     # Shop By Big Size
+                # Medium
+                # Large
+                # XL
+                # 2XL
+                # 3XL
+                # 4XL
+                # 5XL
+                # 6XL
+                # 7XL
+                # 8XL
+                # Size_Guide
+                # Shop By Tall Size
+                # Medium
+                # Large
+                # XL
+                # 2XL
+                # 3XL
+                # 4XL
+                # 5XL
+                # 6XL
+                # 7XL
+                # 8XL
+                # Size_Guide
+          o     # Trousers By Size
+                # 34"/86cm_Waist
+                # 36"/91cm_Waist
+                # 38"/96cm_Waist
+                # 40"/102cm_Waist
+                # 42"/107cm_Waist
+                # 44"/112cm_Waist
+                # 46"/117cm_Waist
+                # 48"/123cm_Waist
+                # 50"/127cm_Waist
+                # 52"/132cm_Waist
+                # 54"/137cm_Waist
+                # 56"/142cm_Waist
+                # 58"/147cm_Waist
+                # 60"/152cm_Waist
+                # Size_Guide
+          o     # Trousers By Inside Leg
+                # 28"_Leg
+                # 30"_Leg
+                # 31"_Leg
+                # 32"_Leg
+                # 33"_Leg
+                # 34"_Leg
+                # 35"_Leg
+                # 36"_Leg
+                # 38"_Leg
+          o     # Shop Collections
+                # Activewear
+                # Back_to_Work
+                # Big_Z's_Top_Picks
+                # Checks_v_Stripes
+                # Denim_Collection
+                # Going_out_out
+                # Graphic_Print_T-Shirts
+                # Tracksuit_Mix
+                # The_Suit_Shop
+                # Winter_Ready
+                # Shop Brands
+                # BadRhino
+                # Ben_Sherman
+                # Crosshatch
+                # D555
+                # Double_Two
+                # Farah
+                # Jack_&_Jones
+                # KAM_Jeanswear
+                # Kangol
+                # Lyle_&_Scott
+                # Loyalty_&_Faith
+                # Man'Stuff
+                # McCarthy
+                # Only_&_Sons
+                # Rawcraft
+                # Southpole
+                # Scott_&_Taylor
+                # Slazenger
+                # Smith_&_Jones
+                # Ultimate_Strongman
+                # Shop Offers
+***** Menu *****
+    * Home
+    * Log_In_or_RegisterLog_OutMy_Account
+    * View_Your_Basket_0
+***** Help & Information *****
+    * Size_Guide
+    * Gift_Cards
+    * Delivery
+    * Returns
+    * Contact_Us
+    * FAQâs
+    * Change_Currency
+    * Store_Finder
+    * Careers
+    * [App_IOS_and_Android]_Download_Our_App
+Yours Clothing
+ Secure Checkout
+Need help03448_204_204
+****_Latest_Arrivals_****
+****_January_blues?_Shop_our_winter_collection_now_****
+****_OUR_BIGGEST_SALE_EVERUP_TO_70%_OFF_****
+****_BUY_WITH_CONFIDENCE
+FREE_RETURNS_****
+****_DIFFERENT_DEALS_DROPPING_DAILY
+SIGN_UP_NOW_****
+****_Sign_up_for_the_latest_news_and_offers_****
+[Unknown INPUT type] Join
+****** Modern Slavery Policy ******
+This statement has been published in accordance with the UK Modern Slavery Act
+2015
+
+It outlines the measures taken by Yours Clothing Ltd and other relevant group
+companies during the 2018/19 financial year to assess and prevent the risk of
+slavery and human trafficking occurring in its business or supply.
+**** About Yours â How our business operates and is structured ****
+Yours Clothing Limited is a privately owned United Kingdom limited liability
+company. Yours have been a Plus sized clothing retailer since 1993. Yours
+designs, develops, sources and sells clothing and accessories both in the UK
+and globally, operating in multi countries. Yours products are sold through our
+own retail and outlet stores as well as through stores operated by our
+franchise partners and online via our digital platforms. At 1st August 2018,
+Yours employed over 1,200 people including part time employees in its 150
+stores, 1 distribution depot and head office based in Peterborough UK.
+Corporate functions providing services in Human Resources, Finance, IT,
+Marketing and Retail operations are located at the Peterborough Yours head
+office.
+
+**** Our Supply Chains ****
+While we undertake most of the design and development of our products
+ourselves, we outsource the manufacturing of all our products. In most
+factories, the facilities are shared with production for other Clothing &
+Accessories brands. We work closely and collaboratively with suppliers and
+service providers, numbering +100 suppliers in over 10 countries.
+
+**** Addressing the risks of Modern Slavery and Human trafficking ****
+Yours attaches real importance to the welfare of our employees and those
+employed by our suppliers. We are taking steps to strengthen our understanding
+and management of the risks of modern slavery and human trafficking in our own
+business or our supply chains, building on our Terms & Conditions and Code of
+Practice for Suppliers. These steps include:
+
+    * Mapping our supplier chains to assess particular industry/sector and
+      geographical risk, to have a clear idea of where the business risks lie
+    * Assessment scope covers all aspects of our business including Retail
+      operations, Property, Logistics, HR and IT as well as our product supply
+      chains
+    * Meeting with a 3rd party to discuss conducting a modern slavery risk
+      assessment on behalf of Yours Clothing
+    * Reviewing our governance structures for responsible sourcing of Goods for
+      Resale (GfR) and Goods Not for Resale (GNfR)
+    * Published the Yours Modern Slavery statement
+During the remainder of the 2018/19 financial year, Yours will continue to
+build on these activities, considering the following areas in particular:
+
+    * Internally publish the findings of modern slavery risk assessment,
+      collate action plan to further mitigate risks and drive improvement using
+      best practice examples from other retailers
+    * Engage our supply base by writing to all areas of our business to raise
+      awareness of the Modern Slavery Act and Human Rights
+    * Review of potential KPIs and monitoring
+
+**** Our policies relating to Modern Slavery and Human Trafficking ****
+Yours Terms & Conditions and Code of Practice for Suppliers are available via
+the Bureau Veritas Yours website and published on our web site
+www.yoursclothing.co.uk
+
+Terms & Conditions
+Our T&Câs outlines the values and principles that help shape the way we work.
+It is primarily aimed at employees and we encourage our business partners,
+including suppliers, franchise and partners, to adopt and apply the T&Câs
+wherever they represent or promote the Yours brand. The key principles include:
+    * We treat all employees and each other fairly, with dignity and respect
+    * We operate with integrity and honesty
+    * We base our business relationships on respect; and expect the same from
+      those that we do business with
+
+Code of Practice for Suppliers
+Yours Code of Practice summarises the minimum standards for working conditions
+that we expect our Suppliers to adhere to in the production of all Yours
+products. The Code of Practice requires compliance with all local legal and
+regulatory requirements of the country in which the facility is located; to
+recognise International standards and to uphold the core labour conventions of
+the International Labour Organization. Where there is any conflict between
+these we expect the higher standard to be achieved.
+
+It contains specific requirements related to forced labour as follows:
+
+    * All work must be conducted on a voluntary basis, and not under threat of
+      any penalty or sanctions.
+    * The Supplier shall not use any form of forced, bonded, indentured,
+      trafficked, slave or prison labour.
+    * Workers must not be required to lodge "deposits" or their identity papers
+      with their employer. All workers should be provided free and unrestricted
+      access to potable water and clean toilet facilities.
+    * As used in the Code of Practice the term âSupplierâ includes but is
+      not limited to vendors, agents, factories, sub-contractors and material &
+      component suppliers
+
+HR policies
+Yours Clothing Ltd will not use or allow the use of forced, compulsory labour,
+slavery, servitude or human trafficking in the course of its business. This
+includes sexual exploitation, securing services by force, threats or deception
+and securing services from children and vulnerable persons.
+Our employment procedures guarantee that Yours Clothing Ltd conducts
+appropriate checks on all staff to ensure they can legally work in the United
+Kingdom.
+In addition, all internal policies are reviewed regularly to ensure continued
+compliance with the Modern Slavery Act 2015.
+
+Yours operates the following policies which are relevant to the prevention of
+slavery and human trafficking in its operations:
+
+    * Outsourcing Policy. This establishes that Yours Clothing Ltd will
+      continue to comply with the Modern Slavery Act 2015 and conduct annual
+      reviews of outsourced suppliers
+    * Recruitment Policy. This confirms that Yours Clothing Ltd will conduct
+      checks on all staff to safeguard that they can legally work in the United
+      Kingdom
+
+Corporate Responsibility Policy
+This policy is designed to ensure that Yours Clothing Ltd is conducting its
+business responsibly.
+
+    * Whistleblowing Policy. Yours Clothing Ltd encourages all of its employees
+      to report any concerns related to the activities of the firm. The
+      organisationâs whistleblowing procedure is designed to ensure that any
+      matter raised under this procedure will be investigated thoroughly,
+      promptly and confidentially, and the outcome of the investigation
+      reported back to the individual who raised the issue. Additionally, the
+      policy guarantees that no one will be victimised for raising a matter
+      under this procedure.
+
+Due Diligence and Audits of suppliers
+We believe that our biggest exposure to Modern Slavery is in our product supply
+chains, which is a biggest focus initially. Within these areas, new suppliers
+and factories/sites are subject to due diligence checks in the form of a valid
+3rd party ethical audit to SMETA (or similar standards). Existing factories are
+also required to provide Yours with 3rd party audit information.
+In common with other retailers, audits are conducted either by our Yours Buying
+& Garment Technical team or by a third-party service provider on our behalf.
+These audits are used to assess compliance with Yours Terms & Conditions and
+Code of practice for suppliers and identify issues for investigation so action
+can be taken.
+In the first instance, we aim to gather the information through our audit
+programme to take action to improve conditions were necessary and to inform
+sourcing decisions.
+Yours does not tolerate forced labour, slavery or human trafficking within our
+direct operations or supply chains. Where any non-compliance to Yours Code of
+Practice for Suppliers is identified, we expect and support suppliers to take
+action to correct it. If a supplier does not take effective action in a timely
+manner withdrawing our business remains the final sanction.
+
+**** Training & Awareness ****
+We aim to hold awareness training, on the prevalence of modern slavery and the
+Modern Slavery Act to highlight the issue and how we expect all employees to
+play their part.
+
+**** Reviewing progress ****
+Supply chains can change for many reasons and the threat of modern slavery can
+continue to evolve and change. We intend to continue to monitor and review our
+controls that guard against the risk of modern slavery which will be shared and
+reported on.
+
+Approved by the Board of Yours Clothing Ltd on 21.03.2019 and signed on its
+behalf by:
+
+David Preece
+Company Secretary
+21.03.2019
+Yours Clothing uses cookies. Read_more_here.
+We use cookies to personalise content, ads and to analyse traffic on our sites.
+By continuing to browse this Website, you consent to the use of these cookies.
+Read_more_here.
+Accept
+***** Store Finder *****
+[location            ]
+View_all_stores>
+***** Sign up to our emails *****
+So we can email you news, updates, special offers, and discounts
+[Unknown INPUT type] Join
+So we can email you news, updates, special offers, and discounts
+***** Download the App *****
+[Apple_Appstore_icon]
+[Google_Play_icon]
+    * Contact_Customer_Services
+    * Testimonials
+    * Leave_Feedback
+    * FAQ's
+    * Delivery
+    * Returns_&_Refund_policy
+    * Click_&_Collect
+    * Careers
+    * Who_Are_We
+    * Voucher_Codes
+    * Affiliates
+    * Suppliers
+    * Wholesale
+    * Blog
+    * Login/Register
+    * My_Account
+    * My_Shopping_Bag
+    * Check_gift_card_balance
+    * Buy_a_Gift_Card
+    * Shop_By_Size_Site_Map
+    * Store_Locator
+    * Size_Chart
+    * Site_Map
+    * Terms_and_Conditions
+    * Privacy_Policy
+    * GDPR_and_Data_Protection
+    * Information_Security
+    * Cookie_Policy
+    * Modern_Slavery_Policy
+    * Gender_Pay_Gap
+*** Yours Social ***
+    * [Facebook]
+    * [Instagram]
+    * [Twitter]
+    * [Pinterest]
+    * [Blogger]
+***** Shop for him *****
+[Badrhino]
+===============================================================================
+[Feefo Gold Certified]
+[2014 Best Plus Size Swimwear]
+[2014 Best Plus Size Brand]
+[2015 Best For Plus Size]
+[2015 Best For Plus Size]
+© 2020 Yours Clothing, All Rights Reserved. Registered number: 2886196.
+Registered office: Newcombe House, Bakewell Road, Peterborough, PE2 6XU, United
+Kingdom.
+[USA][Australia][Ireland][Europe][France][Germany][Poland][Netherlands]
+[Netherlands][Spain][Austria][Denmark][Sweden]
+    * Other_countries_❯
+    * Autres_pays_❯
+    * Andere_LÃ¤nder_❯
+    * Otros_PaÃ­ses_❯
+***** Follow Us *****
+[Facebook]
+[Twitter]
+[Instagram]
+[Youtube]
+***** Download the App *****
+[Apple_Appstore_icon]
+[Google_Play_icon]
+Shop_For_Him
+[Badrhino]
+Back
+© 2020 Yours Clothing, All Rights Reserved. Registered number: 2886196.
+Registered office: Newcombe House, Bakewell Road, Peterborough, PE2 6XU, United
+Kingdom.
+[Loading]
+[/Content/img/skin/Signup_Icon.png]
+Scroll_To_Top
+ÃClose
+[Unknown INPUT type]
+25SAVE
+[Unknown INPUT type]SubmitStart_Shopping

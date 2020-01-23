@@ -1,0 +1,516 @@
+
+
+
+
+
+
+
+
+
+
+
+ Skip_to_content
+Quiksilver uses cookies in order to provide you with customised services and
+offers. By continuing to browse the Quiksilver website you agree to the use of
+cookies. Learn more and set up cookies [here].
+Close
+ HELP & CONTACT
+STORELOCATOR
+WISHLIST
+GIFTCARDS
+Sign_In_or_Join
+
+[q                   ] [Reset] [Search]
+[Unknown INPUT type]
+    * Men
+          o Highlights
+                # Men's_Lookbook
+                # Vintage
+                # Corduroy
+                # Ancient_Vibration
+                # Celebrating_50_Years
+                # Waterman_Collection
+                # Originals_Collection
+                # Adapt_Collection
+                # Highline_Pro
+                # Highline_Boardshorts
+                # Repreve_Collection
+                # Gift_Card
+          o Boardshorts
+                # New_Arrivals
+                # Boardshorts
+                # Beach_Shorts
+                # Amphibians
+                # Swim_Shorts
+                # View_All
+          o Clothing
+                # New_Arrivals
+                # Jackets_&_Coats
+                # Sweatshirts_&_Hoodies
+                # T-Shirts_&_Polo_Shirts
+                # Shirts
+                # Jumpers
+                # Jeans
+                # Trousers
+                # Shorts
+                # Underwear
+                # View_All
+          o Accessories
+                # New_Arrivals
+                # Backpacks_&_Bags
+                # Luggage
+                # Caps_&_Hats
+                # Beanies
+                # Wallets
+                # Watches
+                # Sunglasses
+                # Shoes
+                # Sandals
+                # Towels
+                # Suncare
+                # Skateboards
+                # Other_Accessories
+                # View_All
+          o Surf
+                # Wetsuits
+                # Rash_Vests_&_Surf_Tees
+                # Neoprene_Accessories
+                # Surf_Accessories
+                # View_All
+          o Snow
+                # Snow_Jackets
+                # Snow_Pants
+                # Goggles
+                # Helmets
+                # View_All
+    * Women
+          o Highlights
+                # Womens_Lookbook
+                # Gift_Card
+          o Shop
+                # New_Arrivals
+                # Jackets_&_Sweatshirts
+                # Tops
+                # Bottoms
+                # Swim
+                # Accessories
+                # View_All
+    * Kids
+          o Highlights
+                # Kids'_Lookbook
+                # Gift_Card
+          o Clothing
+                # New_Arrivals
+                # Jackets_&_Coats
+                # Sweatshirts_&_Hoodies
+                # T-Shirts_&_Vest_Tops
+                # Shirts
+                # Jeans_&_Trousers
+                # Shorts
+                # Boardshorts
+                # Underwear
+                # Snow_Jackets
+                # Snow_Pants
+                # View_All
+          o Accessories
+                # New_Arrivals
+                # School_Bags
+                # Caps_&_Hats
+                # Beanies_Gloves_&_Scarves
+                # Watches
+                # Sunglasses
+                # Other_Accessories
+                # View_All
+    * Surf
+          o Highlights
+                # Sound_of_Surfing
+                # Bryan_Movie
+                # Respect_the_Locals
+                # Highline_Pro_Arch
+                # Highline_Pro_Airlift
+                # Highline_Wetsuits
+                # Young_Guns
+                # SurfBoards
+          o Men's_Surf_Shop
+                # New_Arrivals
+                # Wetsuits
+                # Rash_Vests
+                # Neoprene_Tops
+                # Neoprene_Accessories
+                # Surf_Accessories
+                # Suncare
+                # Tide_Watches
+                # Boardshorts
+                # View_All
+          o Kids'_Surf_Shop
+                # New_Arrivals
+                # Wetsuits
+                # Rash_Vests
+                # Neoprene_Tops
+                # Surf_Accessories
+                # Suncare
+                # View_All
+          o Community
+                # Athletes
+                # Blog
+                # Events
+                # Videos
+                # Webcams
+                # Surf_Camp
+    * Snow
+          o Highlights
+                # Gore-Tex_Collection
+                # Highline_Pro_Snow
+                # Recycled_for_Radness
+                # Travis_Rice_Collection
+                # Dark_Matter
+                # Rooster_Tail
+                # Warpaint
+          o Men's_Snow_Shop
+                # Snow_Jackets
+                # Snow_Pants
+                # Fleeces_&_Softshells
+                # Technical_Bags
+                # Goggles
+                # Helmets
+                # Beanies_&_Scarves
+                # Gloves
+                # View_All
+          o Kids'_Snow_Shop
+                # Snow_Jackets
+                # Snow_Pants
+                # Fleeces_&_Softshells
+                # Goggles
+                # Helmets
+                # Beanies_&_Scarves
+                # Gloves
+                # View_All
+          o Community
+                # Athletes
+                # Webcams
+                # Blog
+                # Videos
+    * Sale
+          o Men's_Sale
+                # T-Shirt_&_Polo_Shirts
+                # Shirts
+                # Sweatshirts_&_Hoodies
+                # Jumpers
+                # Jackets_&_Coats
+                # Jeans_&_Trousers
+                # Shorts
+                # Boardshorts
+                # Backpacks_&_Bags
+                # Caps_&_Hats
+                # Beanies_Scarves_&_Gloves
+                # Belts_&_Wallets
+                # Sunglasses
+                # Shoes_&_Sandals
+                # Snow_Jackets
+                # Snow_Pants
+                # Clothing
+                # Accessories
+                # Snow
+                # Swim
+                # Surf
+          o Womens_Sale
+                # Tops_&_T-Shirts
+                # Bottoms
+                # Swimwear
+                # Accessories
+                # View_All
+          o Kids'_Sale
+                # T-Shirts_&_Polo_Shirts
+                # Sweatshirts_&_Jumpers
+                # Shirts
+                # Jackets_&_Coats
+                # Jeans_&_Trousers
+                # Shorts
+                # Boardshorts
+                # Schoolbags
+                # Caps_&_Hats
+                # Beanies_Gloves_&_Scarves
+                # Sunglasses
+                # Small_Accessories
+                # Shoes_&_Sandals
+                # Snow_Jackets
+                # Snow_Pants
+                # Clothing
+                # Accessories
+                # Snow
+                # Swim
+                # Surf
+Search
+[                    ]
+Suggestions
+CATEGORIES
+    * Jacket
+    * Sweatshirts_&_Hoodies
+    * T-Shirts
+    * Boardshorts
+    * Wetsuit
+Top Suggestions
+View All
+WE RECOMMEND
+    * [Originals_Ceremonial_-_T-Shirt_for_Men]
+      Originals_Ceremonial_-_T-Shirt_for_Men
+      £30.00_£21.00
+    * [Quiksilver_Womens_-_Corduroy_Trucker_Jacket_for_Women]
+      Quiksilver_Womens_-_Corduroy_Trucker_Jacket_for_Women
+      £85.00_£59.50
+    * [Quiksilver_-_Denim_Jacket_for_Men]
+      Quiksilver_-_Denim_Jacket_for_Men
+      £115.00_£69.00
+0
+    * SALE:
+      3 ITEMS = 10% OFF - SAVE_NOW
+      LEARN MORE*
+      SALE
+       
+      * Offer cannot be used in conjunction with other offers (Flash sale,
+      ...).
+FREE DELIVERY -
+ON ALL ORDERS FROM £55 - MORE_INFO
+FREE RETURNS -
+YOUR RETURN SHIPPING COSTS REFUNDED WITH PAYPAL - FIND_OUT_MORE
+{"pageTitle":"Customer Service", "pageType" :"CustomerService"}
+**** Payment & Security ****
+    * Payment_methods_and_Security
+**** Sizing Charts ****
+    * Size_Charts
+**** Returns ****
+    * Returns
+**** Delivery ****
+    * Delivery_modes_and_time
+**** Boardriders Club ****
+    * Smartphone_app
+    * Boardriders_Club
+**** Terms & Conditions ****
+    * Privacy_Policy
+    * Terms_of_use
+    * Cookies_Policy
+    * Modern_slavery_act_statement
+    * Terms_of_sale
+**** Gift Card ****
+    * Purchase_a_Gift_Card
+    * How_to_use_it
+Home > > Customer_Service
+***** Modern Slavery Act Statement *****
+This statement sets out Boardriders UK’s (as defined below) ongoing commitment
+as a responsible business to ensure that modern slavery and human trafficking
+is eradicated, in accordance with the Modern Slavery Act 2015.
+ 
+**** Introduction ****
+The Boardriders Group is a retail sporting goods business and one of the
+world's largest manufacturers of surf wear and other board-sport related
+products. The Boardriders Group designs, develops and distributes a large range
+of branded clothing, footwear, accessories and other products under the
+Quiksilver, Roxy, DC Shoes brands whose images and names are closely associated
+with boardriding sports and lifestyle.
+ 
+The Boardriders Group has over 5,000 employees worldwide and operates in 90
+countries. The global business is managed from three main regions: the
+"Americas" region managed from our group headquarters by the US parent company
+Boardriders Inc.; the "Europe, Middle East, Africa" (EMEA) region managed by
+the French subsidiary NA PALI SAS; and the "Asia-Pacific" (APAC) region managed
+by the Australian subsidiary UG Manufacturing Co. Pty. Ltd.
+ 
+Boardriders Group EMEA business is organised into over 30 different corporate
+entities in 18 countries, including the United Kingdom. The Boardriders Group
+UK subsidiary of NA PALI SAS is LANAI Ltd., which is located in London and
+operates our commercial activity in the UK, including e-commerce (NA PALI SAS
+and LANAI Ltd are collectively referred to as “Boardriders UK”).
+ 
+**** Our supply chains ****
+The Boardriders Group works with over 80 manufacturers in Asia, Europe and the
+Middle East, who supply our warehouses in the Americas, EMEA and APAC regions
+with surf wear and other board-sport related products for sale throughout over
+90 countries.
+ 
+We are conscious that imported products or services sourced from outside the UK
+or EC are potentially more at risk of slavery or human trafficking issues. If
+products have to be sourced from such locations, we will look favourably on
+suppliers who can demonstrate a commitment to human rights and fair working
+conditions.
+ 
+**** Our policies on slavery and human trafficking ****
+The Boardriders Group is committed to conducting business in an ethical manner
+and expects its manufacturing partners to share this same commitment.
+Accordingly, Boardriders Group established a global ethical program in 2004
+titled “QUEST” (Quiksilver Ethical Standards of Trade), to prevent abusive,
+exploitive, or illegal conditions in the workplace and prevent human
+trafficking and slavery. QUEST reflects our commitment to acting ethically and
+with integrity in all our business relationships. QUEST includes a Supplier
+Workplace Code of Conduct, and all agents, vendors and factories are required
+to participate in the QUEST program as a condition of doing business with our
+companies.
+ 
+Boardriders Group also has in place a robust whistleblowing procedure for the
+submission of complaints or concerns, as well as a Code of Business Conduct and
+Ethics, both designed to encourage and to protect anyone who wishes to raise
+concerns about wrongdoing within our business.
+ 
+**** Due diligence processes for slavery and human trafficking ****
+Boardriders Group recruitment processes are transparent and reviewed regularly.
+We communicate directly with candidates to discuss job opportunities and to
+confirm the details of any offer made. We have robust procedures in place for
+the vetting of new employees and ensure that we are able to confirm their
+identities and that they are paid directly into an appropriate, personal bank
+account.
+ 
+If we discover that any of our employees have been complicit in human
+trafficking or modern slavery, we will take the appropriate disciplinary action
+against them. Non-compliance with our QUEST standards, falling short of modern
+slavery, can result in a Corrective Action Plan (CAP). Under CAP, our employees
+and contractors are expected to follow a series of steps to correct their non-
+compliance in order for them to remain an active employee or contractor.
+Otherwise, they face termination.
+ 
+We have implemented a number of processes to ensure, as reasonably practicable,
+that our supply chains adhere to our expectations in respect of their
+workforce. Annually, we evaluate all of our direct manufacturing suppliers to
+verify that they are not at risk for violating anti-slavery and human
+trafficking laws. Our own internal QUEST team spearheads that verification
+process, using an internally developed assessment tool. This tool helps us to
+categorize suppliers using a grading matrix system aligned to each clause of
+Boardriders’ Supplier Workplace Code of Conduct. This is a risk-profiling
+process in order to grade suppliers and alert management if a violation is
+detected, so that immediate action can be taken including termination with the
+supplier to protect the supply chain. We also rely on input from our
+independent factory auditors, particularly in jurisdictions where there is a
+higher risk of modern slavery, to assess these risks and vulnerabilities.
+ 
+All of our new suppliers need to be audited with acceptable audit results prior
+to cooperation with Boardriders Group. We continue to monitor all of our
+supplier behaviour and compliance with QUEST, notably every year in high risk
+countries (as defined by World Bank’s Worldwide Governance Indicators), through
+an independent external contractor who carries out unannounced audits and also
+by ongoing monitoring. This is the only way that suppliers can maintain their
+“active” status with Boardriders Group. We have committed to work only with
+organisations who share our values and who have pledged to assist in the
+eradication of slavery and human trafficking.
+ 
+As with Employees and contractors, all suppliers are issued with a Corrective
+Action Plan following an audit. Our QUEST team works with suppliers throughout
+the assessment process and factory management is educated and assisted on any
+non-compliance issue encountered during an applicable audit. If appropriate, if
+following an audit we do not see progress to resolving any non-compliance
+issues in the CAP, the supplier will face termination.
+ 
+To ensure that our suppliers respect and enforce our QUEST standards, the
+commercial agreements governing our contractual relationship stipulate that our
+suppliers must abide by our QUEST standards, or the contractual relationship is
+subject to termination. More specifically, we ask our suppliers to agree to
+provide workers with a safe and healthy work environment; allow workers freedom
+of association and collective bargaining; conduct business in compliance with
+applicable environmental, labour, and employment laws; refrain from corrupt
+practices; and protect against human trafficking and slavery. We also require
+our suppliers to certify that materials incorporated into our products comply
+with applicable laws, including those laws that relate to slavery and human
+trafficking in the country or countries in which they do business.
+ 
+We take a zero tolerance approach to human trafficking and modern slavery. We
+will not work or continue to work with any organisation that we find has been
+knowingly involved in either human trafficking or modern slavery.
+ 
+**** Training ****
+As part of our efforts to ensure compliance with our QUEST standards and
+prevent abusive, exploitive, or illegal conditions in the workplace, our QUEST
+department conducts ongoing internal employee and management training regarding
+our code and human rights concerns, including human trafficking and slavery
+associated with our supply chains. The training specifically covers mitigating
+risks of human trafficking and slavery within our company’s supply chains of
+products, and is mandatory for those company employees and management who have
+direct responsibility for supply chain management.
+ 
+**** Our effectiveness in combating slavery and human trafficking ****
+At Boardriders UK and within the Boardriders Group (via a specific group
+affiliate that takes responsibility for modern slavery matters), we shall take
+the responsibility for implementing this policy statement and its objectives
+and shall provide adequate resources and investment to ensure that slavery and
+human trafficking is not taking place within the organisation or within its
+supply chains.
+ 
+We will continue to monitor this policy and review QUEST in relation to slavery
+and human trafficking. If we become aware of any breaches of QUEST or any
+necessary update or additional to this policy, we will investigate and take
+such steps as are necessary to ensure that the risk of further breaches
+occurring is minimised.
+ 
+This statement is made pursuant to section 54(1) of the Modern Slavery Act 2015
+and constitutes our slavery and human trafficking statement for the financial
+year ending on October 31st 2017.
+ 
+[https://www.quiksilver.co.uk/on/demandware.static/-/Sites-QS-FR-Library/en_GB/
+v1579492844095/images/Customer-Service/thomas-chambolle-signing.png]
+Enjoy exclusive discounts, private sales, VIP promos, a special birthday bonus
+and much more - it's free!
+Join_the_club
+
+Get all the latest news and exclusive offers.
+[email               ]
+Please enter a valid e-mail address
+Your personal information will be processed by BOARDRIDERS Europe in accordance
+with BOARDRIDERS Europe Privacy_Policy for the purpose of providing you with
+our products and services and to keep you informed on our news and collections
+in connection with our brand QUIKSILVER. You may unsubscribe at any time if you
+no longer wish to receive information or offers from one of our brands. You may
+also request to access, correct, or delete your personal information.
+
+Find_a_Store
+* Find your nearest shop *
+[location            ] [Submit]
+* Follow us *
+
+Contact_us
+* Customer Service *
+    * Payments
+    * Size_Chart
+    * Delivery
+    * Returns
+    * Email_Us
+    * Call_Us
+    * Gift_Card
+* Boardriders Inc. *
+    * Careers
+    * Boardriders_Club
+    * Quiksilver
+    * Roxy
+    * DC_Shoes
+* Follow us *
+
+Select your Region
+*** Americas ***
+*** APAC / ASIA ***
+*** Europe ***
+*** Africa ***
+
+Privacy_Policy |  Terms_of_Sale |  Cookies_Policy
+© 2020 Quiksilver
+Change your country
+Select your Region
+Need Help ?
+    * Order_Status
+    * Delivery
+    * Returns
+    * Payment
+    * Size_Charts
+    * Boardriders_Club
+Need_more_help?
+Customer Service
+An adviser is available to help you. You can also place your order by phone,
+where we can advise you on the cut or size of your product.
+
+Monday to Thursday 8am – 11:30am / 12:30pm – 5pm*
+Friday 8am – 11.30am / 1pm – 3.15pm*
+
+*Excluding French bank holidays
+Contact_US
+FAQ
+This section allows you to get an immediate answer to our most frequently asked
+questions.
+Visit_our_FAQ
+[Image]
+[Image]
+
+

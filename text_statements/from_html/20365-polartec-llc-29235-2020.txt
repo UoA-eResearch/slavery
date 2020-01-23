@@ -1,0 +1,108 @@
+ <?= Html::csrfMetaTags() ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Open Menu]
+X
+ [q                   ]
+   [/assets/img/logo.png]
+    * CONTACT_US
+    * X
+    * Fabrics
+    * Partners
+    * News
+    * About
+
+X
+    * Fabrics
+    * Partners
+    * News
+    * About
+    * Contact_Us
+    * FAQ
+    * Careers
+    * Ready_to_Roll_In-Stock
+    * Order_Status
+    * Tags_&_Labels_Program
+
+****** CTSCAD ******
+
+****** California Transparency in Supply Chains Act Disclosure ******
+The California Transparency in Supply Chains Act of 2010 (SB 657) (the
+âActâ) requires certain manufacturers and retailers doing business in the
+State of California to disclose information regarding their efforts to
+eradicate slavery and human trafficking from their direct supply chains.
+Polartec, LLC (Polartec) adheres to the following procedures:
+   1. Verification: In order to verify compliance with the terms set forth in
+      the Polartec purchase order, Polartec reserves the right to access a
+      supplierâs factories and other sites used for producing, packaging and
+      transporting the purchased products and/or services.
+   2. Audits: As described in Section 1 above, Polartec reserves the right to
+      access a supplierâs site, and may also audit the supplierâs records
+      that pertain to purchases made by Polartec.
+   3. Certification: Polartec does not currently require certifications from
+      its suppliers. However, Polartecâs purchase order terms require the
+      supplier to represent and warrant to Polartec that the supplierâs
+      production, manufacture, packaging, sale, distribution, installation and
+      pricing of any and all products are in full compliance with applicable
+      laws, regulations, rules and ordinances in the location where the
+      products are made, as well as in jurisdictions through which the products
+      pass and are eventually delivered to Polartec or its agents. These
+      representations and warranties specifically cite and require compliance
+      with labor laws, and expressly prohibit (a) the use of child labor (as
+      defined under applicable law); (b) forced or compulsory labor; (c)
+      physical abuse of workers; and/or (d) disregard or failure to comply with
+      applicable rules and laws governing wages, benefits, working hours,
+      working conditions and payment for overtime.
+   4. Accountability: Polartec reserves the right to terminate the relationship
+      with a supplier if the supplier fails to comply with the terms of the
+      purchase order, including for a breach of a representation or warranty
+      contained therein.
+   5. Training: Polartec provides training to individuals who manage
+      procurement and supply chain activities to ensure they understand the
+      terms found in the Polartec purchase orders. In addition, all employees
+      are provided with a copy of the Polartec internal code of conduct.
+FABRIC TECHNOLOGIES + DESIGN SOLUTIONS FOR ANY NEED + ANY REASON
+    * Fabrics
+    * Partners
+    * News
+    * About
+    * Contact_Us
+    * FAQ
+    * Careers
+    * Ready_to_Roll_In-Stock
+    * Order_Status
+    * Tags_&_Labels_Program
+Trademark_Use /
+Privacy /
+CTSCAD
+
+
+GET ON THE LIST.  
+STAY IN THE KNOW.
+
+[Unknown INPUT type]
+[b_c1bd83edbed392084e33c3871_c21f8fc86d]
+[SUBMIT]
+

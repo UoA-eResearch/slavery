@@ -1,0 +1,497 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    * Accessibility_options
+    * Go_to_content
+    * Go_to_menu
+    * Go_to_search_panel
+    Go to search panel
+_____
+    Go to menu
+Home
+    Close the menu
+    *  _Customize_
+    *  Men   Men
+          Back to the previous menu
+      Home Men
+          Close the menu
+          o  _Clothing____
+                -
+            Home Men Clothing
+                -
+                # See_All_Men's_Clothing
+                # New_Arrivals
+                # Best_Sellers
+                # The_Original_Polo
+                # Polos
+                # T-Shirts
+                # Sweaters
+                # Sweatshirts
+                # Button_Down_Shirts
+                # Jackets_&_Coats
+                # Pants_&_Shorts
+                # Tracksuits
+                # Swimwear
+                # Underwear
+          o  _Shoes____
+                -
+            Home Men Shoes
+                -
+                # See_All_Men's_Shoes
+                # Sneakers
+                # Sandals_&_Slip-Ons
+                # Boots_&_Loafers
+          o  _Accessories____
+                -
+            Home Men Accessories
+                -
+                # See_All_Men's_Accessories
+                # Watches
+                # Sunglasses
+                # Fragrance
+                # Caps_&_Hats
+                # Scarves_&_Gloves
+                # Socks
+          o  _Leather_goods____
+                -
+            Home Men Leather goods
+                -
+                # See_All_Men's_Leather_Goods
+                # New_Arrivals
+                # Bags
+                # Small_Leather_Goods
+                # Belts
+          o Shop By Theme
+                # Sport
+                # L!VE
+                # Novak
+    *  Women   Women
+          Back to the previous menu
+      Home Women
+          Close the menu
+          o  _Clothing____
+                -
+            Home Women Clothing
+                -
+                # See_All_Women's_Clothing
+                # New_Arrivals
+                # Best_Sellers
+                # Polos
+                # T-Shirts
+                # Shirts_&_Tops
+                # Sweaters_&_Sweatshirts
+                # Jackets_&_Coats
+                # Dresses_&_Skirts
+                # Pants_&_Shorts
+          o  _Shoes____
+                -
+            Home Women Shoes
+                -
+                # See_All_Women's_Shoes
+                # Sneakers
+                # Sandals_&_Slip-Ons
+          o  _Accessories____
+                -
+            Home Women Accessories
+                -
+                # See_All_Women's_Accessories
+                # Watches
+                # Sunglasses
+                # Fragrance
+                # Hats
+          o  _Leather_goods____
+                -
+            Home Women Leather goods
+                -
+                # See_All_Women's_Leather_Goods
+                # New_Arrivals
+                # Bags
+                # Small_Leather_Goods
+                # Belts
+          o Shop By Theme
+                # Sport
+                # Lacoste_Live
+    *  Kids   Kids
+          Back to the previous menu
+      Home Kids
+          Close the menu
+          o  _Boys____
+                -
+            Home Kids Boys
+                -
+                # See_All_Boys'_Collection
+                # New_Arrivals
+                # Polos
+                # Tops
+                # Bottoms
+          o  _Girls____
+                -
+            Home Kids Girls
+                -
+                # See_All_Girls'_Collection
+                # Polos
+                # Tops
+                # Dresses_&_Skirts
+          o  _Baby____
+                -
+            Home Kids Baby
+                -
+                # See_All_Newborns'_Collection
+                # Baby_Boy
+                # Baby_Girl
+          o  _Shoes____
+                -
+            Home Kids Shoes
+                -
+                # Sneakers_&_Sandals
+          o  _Accessories____
+                -
+            Home Kids Accessories
+                -
+                # See_All_Boys'_Collection
+                # Caps_and_Socks
+                # Watches
+    *  Accessories   Accessories
+          Back to the previous menu
+      Home Accessories
+          Close the menu
+          o  _Men____
+                -
+            Home Accessories Men
+                -
+                # See_All_Men's_Accessories
+                # Watches
+                # Sunglasses
+                # Fragrance
+                # Caps_&_Hats
+                # Socks
+                # Bags
+                # Small_Leather_Goods
+                # Belts
+          o  _Women____
+                -
+            Home Accessories Women
+                -
+                # See_All_Women's_Accessories
+                # Watches
+                # Sunglasses
+                # Fragrance
+                # Scarves_&_Gloves
+                # Bags
+                # Small_Leather_Goods
+                # Belts
+          o  _Kids____
+                -
+            Home Accessories Kids
+                -
+                # Caps_&_Socks
+                # Watches
+          o  _Home____
+                -
+            Home Accessories Home
+                -
+                # See_All_Home
+                # Bedding
+                # Bath_&_Robes
+    *  Sale   Sale
+          Back to the previous menu
+      Home Sale
+          Close the menu
+          o  _Men's_sale____
+                -
+            Home Sale Men's sale
+                -
+                # See_All_Men's_Sale
+                # Polos
+                # Sweaters_&_Sweatshirts
+                # T-Shirts
+                # Button_Down_Shirts
+                # Jackets_&_Coats
+                # Pants_&_Shorts
+                # Shoes
+                # Leather_Goods
+                # Accessories
+          o  _Women's_Sale____
+                -
+            Home Sale Women's Sale
+                -
+                # See_All_Women's_Sale
+                # Polos
+                # T-Shirts_&_Tops
+                # Dresses_&_Skirts
+                # Sweaters_&_Sweatshirts
+                # Jackets_&_Coats
+                # Pants_&_Shorts
+                # Leather_Goods
+                # Shoes
+                # Accessories
+          o  _Kids'_Sale____
+                -
+            Home Sale Kids' Sale
+                -
+                # See_All_Kids'_Sale
+                # Polos
+                # T-Shirts_&_Tops
+                # Sweaters_&_Sweatshirts
+                # Dresses_&_Skirts
+                # Bottoms
+                # Shoes_&_Accessories
+    *  Lacoste_Inside   Lacoste Inside
+          Back to the previous menu
+      Home Lacoste Inside
+          Close the menu
+          o    Brand
+                -
+            Home Lacoste Inside Brand
+                -
+                # RenÃ©_Lacoste
+                # Story
+                # Savoir-Faire
+          o    Style
+                -
+            Home Lacoste Inside Style
+                -
+                # Fashion_Show
+                # Collabs
+                # #MyLacostePolo
+          o    Sport
+                -
+            Home Lacoste Inside Sport
+                -
+                # Novak_Djokovic
+                # Sport_Shop
+    * Shop By Theme
+          o New_Styles
+          o Best_sellers
+          o Sport
+          o Live
+    Go to search panel
+    * ____Help_&_Support_
+    * ____Find_a_boutique_
+    * ____Accessibility_options_
+    * ____Log_in_
+
+___See_my_shopping_bag
+
+
+****** Social responsibility ******
+The Rene Lacoste Foundation
+The_Rene_Lacoste_Foundation supports and subsidizes projects throughout the
+world that enable children to have access to sports. In 2011, the Foundation
+supported 20 projects, including First Tee Miami, which opens up access to golf
+to disadvantaged children; www.sportsansfrontieres.org/" target="_blank">Sports
+Sans Frontieres
+ in Afghanistan.
+Protection of Biodiversity
+When Rene Lacoste chose the crocodile as his emblem in 1927, he never imagined
+that millions of people would one day wear this logo. He also never imagined
+that crocodiles as a species would one day be threatened. As the first company
+to embroider a logo on its clothing, Lacoste is also the first company to
+support the Save Your Logo campaign, which allows private companies or
+institutions to contribute to the preservation of the animal that represents
+their logo. Today, through Save Your Logo, Lacoste contributes to the
+protection of biodiversity on the planet in its commitment to saving
+crocodiles, alligators, caimans, and gharials. Save Your Logo has the support
+of the Global_Environment_Facility_(GEF), the World_Bank, the International
+Union_for_Conservation_of_Nature_(IUCN), and, most recently, the United_Nations
+Environment_Programme_(UNEP).
+Transparency Supply Chains Act
+Lacoste is opposed to human trafficking and slavery and takes steps to ensure
+that these illegal behaviors are not incorporated into the Lacoste supply
+chain. These steps include agreements with vendors that they will not engage in
+this type of behavior and will comply with local laws. We also have the right
+to conduct facility audits during visits, as well as include provisions in our
+vendor agreements that permit Lacoste to conduct unannounced audits using
+independent auditing agencies. Together, we can all help to stop human
+trafficking and slavery in the retail industry.
+
+On Lacoste website
+    *     Contact Us
+      LET'S CHAT
+      =========================================================================
+      Our customer service team is here to help you.
+
+      Contact us Monday through Friday from 9 am to 11 pm EST, and Saturday and
+      Sunday from 10 am to 9 pm EST.
+
+      By phone: 1-800-452-2678
+      By e-mail: Click_here
+    *     Free Returns
+      RETURNS ARE ON US
+      =========================================================================
+      A return label is provided with your package and can be used if you want
+      to return a product. To return a product, please complete the Returns
+      Form specifying the reasons for the return and using the Return Label
+      supplied. You have 30 days from receipt of your order to return a product
+      purchased from Lacoste.com
+    *     Safe & Secure Payment
+      SAFE & SECURE
+      =========================================================================
+      All payment information will be SSL coded for transmission to protect
+      your card data and to ensure that it cannot be used by anyone else.
+
+      The following payment methods are available on the Lacoste website:
+      VISA, Mastercard, American Express, PayPal and Amazon Pay
+    *     Shipping
+      Shipping
+      =========================================================================
+      GROUND SHIPPING Arrives within 2 to 6 business days from when it is
+      shipped.
+
+
+      EXPRESS 2ND DAY AIR SHIPPING Arrives within 2 business days from when it
+      is shipped. Please note: No Saturday delivery.
+
+
+      EXPEDITED NEXT DAY AIR SHIPPING Arrives within 1 business day from when
+      it is shipped. Please note: No Saturday delivery.
+
+
+
+Want exclusive offers & first access to products? Sign up.
+[Unknown INPUT type] [Sign Up]
+    * [Go_to_instagram_(new_window)]
+    * [Go_to_facebook_(new_window)]
+    * [Go_to_twitter_(new_window)]
+    * [Go_to_pinterest_(new_window)]
+    * [Go_to_tumblr_(new_window)]
+    * [Go_to_youtube_(new_window)]
+81 stores in United States
+Find_a_boutique
+About Lacoste
+    * The_Lacoste_Group
+    * People
+    * Careers_ENGL
+    * The_Lacoste_Foundation
+    * Military_Discount
+    * Digital_Accessibility
+    * Customize_your_polo
+    * Brand_Protection
+    * Terms_&_Conditions
+    * FAQ
+
+Our Categories
+    * Men's_Collection
+    * Women's_Collection
+    * Kid's_Collection
+    * Shoe_Shop
+    * Polo_Shop
+    * Lacoste_Live
+    * Lacoste_Sport
+    * Save_Our_Species
+    * Crocodile_Inside_Film
+
+Help & Contacts
+By phone
+1-800-452-2678
+Contact us Monday through Friday from 9 am to 11 pm EST, and Saturday and
+Sunday from 10 am to 9 pm EST.
+By_email
+
+Payment Methods
+    *   [Visa]
+    *   [American Express]
+    *   [Master Card]
+    *   [Discover]
+    *   [Paypal]
+    *   [Amazon Pay]
+Shipping Methods
+    *   [Ground]
+Security partners
+    * _[alt]_
+
+    * Sitemap
+    * Terms_&_Conditions
+    * Privacy_policy
+    * Size_guide
+Change country
+===============================================================================
+    * Argentina
+    * Australia
+    * Belgium
+    * Brazil
+    * Canada
+    * CeskÃ¡_Republika
+    * Danmark
+    * Deutschland
+    * Ø§ÙØ¥ÙØ§Ø±Ø§Øªl
+    * EspaÃ±a
+    * France
+    * India
+    * Ireland
+    * Italy
+    * Latvija
+    * Lietuva
+    * Portugal
+    * Netherland
+    * Ãsterreich
+    * Polska
+    * Ø§ÙØ³Ø¹ÙØ¯ÙØ©
+    * Slovensko
+    * South_Africa
+    * Sweden
+    * Switzerland
+    * à¸à¸£à¸°à¹à¸à¸¨à¹à¸à¸¢
+    * TÃ¼rkiye
+    * United_Kingdom
+    * USA
+    * Ð Ð¾ÑÑÐ¸Ñ
+    * ä¸­åäººæ°å±åå½
+    * æ¥æ¬å½
+    * íêµ­
+    * Ð£ÐºÑÐ°ÑÐ½Ð°
+    * Other_countries
+ [Select country (currently United States)]  United States
+
+[q                   ] [Find a product] Reset
+Filter By
+ Sort By
+ Relevance
+ Price Low-High
+Previous Page Next Page
+
+
+

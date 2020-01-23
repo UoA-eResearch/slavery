@@ -1,0 +1,366 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip_to_main_content
+    * SIGN_IN
+0
+minicart
+Free Standard Shipping on Any US order over $150
+[Avenue]
+    * Toggle
+    * Search
+    * SIGN_IN
+    *
+      0
+
+Search
+[q                   ]
+Promobar_Expand_and_Collapse_Button+
+40% OFF SITEWIDE
+40%_OFF sitewide Select styles. Applied automatically.
+40% OFF SALE & CLEARANCE
+40%_OFF sale_&_clearance Select styles. Prices marked in US dollars.
+No returns on items US $16.96 & under.
+    * EMAIL_SIGN_UP
+[Avenue]
++
+    * What's_New  Expand What's New
+          o New_Arrivals  Expand New Arrivals
+                # Knit_Tops
+                # Shirts_&_Blouses
+                # Sweaters
+                # Overpieces
+                # Bottoms
+                # Denim
+                # Shoes_&_Boots
+                # Outerwear
+                # Dresses_&_Jumpsuits
+                # Active
+                # Intimates
+                # Accessories
+                # loralette
+          o Trends  Expand Trends
+                # Layered_Looks
+                # Winter_Brights
+                # We_Love_Plaid
+                # Animal_Instincts
+                # Work_Wear
+          o Winter_Gear  Expand Winter Gear
+                # Coats
+                # Boots
+                # Sweaters_&_Tops
+                # Accessories
+          o V-Day_Shop  Expand V-Day Shop
+                # Date_Night
+                # Sleepwear
+                # Casual_Tops
+                # Intimates
+                # Accessories
+    * Brands  Expand Brands
+          o loralette  Expand loralette
+                # tops_&_tees
+                # blouses
+                # bottoms
+                # dresses_&_jumpsuits
+          o  Cloudwalkers®   Expand Cloudwalkers®
+                # Boots
+                # Shoes
+                # All_Shoes
+          o CCX_Sportswear
+    * Tops  Expand Tops
+          o Tops_&_Tees  Expand Tops & Tees
+                # Knit_Tops
+                # Shirts_&_Blouses
+                # Layering_Pieces
+                # Tunics
+                # Graphic_Tees
+                # Sleeveless
+                # The_Tee_Shop
+                # Jackets
+                # Sweatshirts
+          o Sweaters_&_Cardis  Expand Sweaters & Cardis
+                # Pullovers
+                # Cardigans
+          o Featured_Tops  Expand Featured Tops
+                # Party
+                # Pleated_Details
+          o  More   Expand More
+                # Sizes_30/32
+    * Bottoms  Expand Bottoms
+          o Shop_by_Style  Expand Shop by Style
+                # Ankle
+                # Full_Length_Pants
+                # Knits
+                # Leggings
+                # Skirts
+          o Shop_by_Fabric  Expand Shop by Fabric
+                # Luxe_Cool_Hand
+                # Super_Stretch
+                # Ponte
+                # Cotton_Stretch
+                # Knit
+          o Shop_by_Silhouette  Expand Shop by Silhouette
+                # Pull_On
+                # Fly_Front
+          o  More   Expand More
+                # Petite_Pants
+                # Tall_Pants
+                # Sizes_28-32
+    * Denim  Expand Denim
+          o Shop_By_Fit  Expand Shop By Fit
+                # Jegging
+                # Ankle
+                # Girlfriend
+                # Skinny
+                # Straight
+                # Bootcut
+          o Shop_By_Fabric  Expand Shop By Fabric
+                # Butter_Denim
+                # Luxe_Sateen
+                # Knit_Denim
+          o Technology  Expand Technology
+                # Wanna_Betta_Butt
+                # Premium_Stretch
+          o  Shop By Wash   Expand Shop By Wash
+                # Medium
+                # Dark
+                # Rinse
+                # Black
+                # Distressed
+                # Color
+          o  More   Expand More
+                # Trending_Fashion
+                # Fit_Guide
+                # Petite_Jeans
+                # Tall_Jeans
+                # Sizes_28-32
+    * dresses  Expand dresses
+          o Styles  Expand Styles
+                # Fit_'n_Flare
+                # A-line
+                # Sheaths
+                # Jacket_Dresses
+                # Wraps
+                # Maxis
+                # Jumpsuits
+                # Skirts
+          o  Collections   Expand Collections
+                # Date_Night
+                # Perfect_Black_Dress
+                # Party_Dresses
+    * Active  Expand Active
+          o Active_Tops  Expand Active Tops
+                # Tops_&_Tees
+                # Jackets_&_Hoodies
+          o Active_Bottoms  Expand Active Bottoms
+                # Leggings
+                # Basic_Bottoms
+          o  More   Expand More
+                # Sports_Bras
+    * Outerwear  Expand Outerwear
+          o Shop_By_Style  Expand Shop By Style
+                # Jackets
+                # Coats
+                # Vests
+                # Quilted
+                # Moto
+                # Fleece
+                # Puffers
+          o Shop_By_Weight  Expand Shop By Weight
+                # Lightweight
+                # Mid-weight
+    * Shoes_&_Boots  Expand Shoes & Boots
+          o Shoes  Expand Shoes
+                # Pumps_&_Heels
+                # Clogs_&_Mules
+                # Wedges
+                # Flats
+                # Athletic
+          o Boots  Expand Boots
+                # Ankle_Boots
+                # Mid-Calf_Boots
+                # Tall_Boots
+    * Accessories  Expand Accessories
+          o Handbags  Expand Handbags
+                # Belt_Bags
+                # Satchels
+                # Wristlets_&_Wallets
+                # Travel_Kits_&_More
+          o Accessories  Expand Accessories
+                # Gifts_and_More
+                # Wraps_&_Ponchos
+                # Fashion_Scarves
+                # Reading_Glasses
+                # Cold_Weather
+                # Belts
+          o Jewelry  Expand Jewelry
+                # Short_Necklaces
+                # Long_Necklaces
+                # Bracelets
+                # Earrings
+          o  More   Expand More
+                # Tahari®
+    * Intimates  Expand Intimates
+          o Bras  Expand Bras
+                # The_Bra_Shop
+                # Underwire
+                # No_Wire
+                # Cotton_Bra
+                # Sports_Bras
+                # Balconette
+                # Smooth_Caress
+                # Back_Smoothers
+                # T-Shirt
+                # Plunge
+                # Band_Sizes_50_&_52
+                # Bralette
+          o Panties  Expand Panties
+                # Thong
+                # Hipster_&_Bikini
+                # Hi-Cut
+                # Cheeky
+                # Modern_Brief
+                # Full_Brief
+                # Boy_Shorts
+                # Cotton_Panties
+                # Seamless_Panties
+                # Microfiber_Panties
+                # Garters_&_More
+          o  Collections   Expand Collections
+                # Bra_&_Panty_Sets
+          o Shapewear  Expand Shapewear
+                # Tummy_Tamers
+                # Back_Smoothers
+                # Love_Handles
+                # Thigh_Slimmers
+          o Sleep_&_Lounge  Expand Sleep & Lounge
+                # Chemises
+                # Pajamas
+                # Nightgowns
+                # Robes_&_Slippers
+          o Hosiery  Expand Hosiery
+                # Pantyhose_&_Tights
+                # Socks
+    * Clearance  Expand Clearance
+          o Sale  Expand Sale
+                # Sale_Tops
+                # Sale_Bottoms
+                # Sale_Dresses
+                # Sale_Outerwear
+                # Sale_Shoes
+                # Sale_Accessories
+                # Sale_Loralette
+          o Clearance
+          o SIGN_IN
+    * TEXT_SIGN_UP
+    * EMAIL_SIGN_UP
+    * ORDER_HISTORY
+    * Home
+    * California Transparency in Supply Chains Act and ILO Compliance
+Your browser's Javascript functionality is turned off. Please turn it on so
+that you can experience the full capabilities of this site.
+California Transparency in Supply Chains Act and ILO Compliance
+ 
+The California Transparency in Supply Chains Act of 2010 (SB 657) (the “Act”)
+requires certain manufacturers and retailers doing business in the State of
+California to disclose information regarding their efforts to eradicate slavery
+and human trafficking from their direct supply chains.  In its effort to supply
+products free from the taint of slavery and human trafficking, Avenue Stores,
+LLC complies with the provisions of the International Labor Organization
+(“ILO”), and adheres to the following procedures to manage its supply chain
+operations:
+ 
+1. Verification.  Prior to and during any contractual relations involving the
+procurement of goods or services, representatives from Avenue Stores, LLC,
+accompanied by outside observers as the case may be, reserve the right to
+access the factory’s administrative documents and personnel, and may visit
+sites used for producing, packaging and transporting the products or services
+in order to evaluate the conditions and confirm the vendor’s full compliance
+with the CoC.
+ 
+2. Audits.  As described in Section 1 above, Avenue Stores, LLC, whether in
+conjunction with outside observers or not, reserves the right to access the
+factory’s administrative documents and personnel, and may visit sites used for
+producing, packaging and transporting the products or services in order to
+evaluate the conditions and confirm the vendor’s full compliance with the CoC.
+ 
+3. Certification.  Avenue Stores, LLC requires all of its suppliers to certify
+their compliance with applicable laws and regulations of the United States and
+those of the respective country of manufacture or exportation.  A contractual
+relationship is contingent upon receipt of the vendor’s certification
+signifying its agreement with Avenue Stores, LLC Code of Conduct (CoC), which
+incorporates the principles of the ILO as well as the procedures identified in
+this disclosure.  The CoC includes provisions regarding the use of child labor,
+prison or forced labor, discrimination, disciplinary practices, freedom of
+association, working hours & overtime wages & benefits, environment, and health
+& safety.  Certifications are required at least every two years.
+ 
+4. Accountability.  For all parties contracting with Avenue Stores, LLC,
+compliance with the CoC represents, in addition to and notwithstanding any
+contractual clause, a substantial condition of commercial relationship. In case
+of failure to comply with the CoC, Avenue Stores, LLC will determine in its
+sole and exclusive discretion what corrective measures should be taken,
+including termination of the contractual relationship in cases where
+remediation of the noncompliance is not feasible or cannot be accomplished
+within a timeframe reasonably acceptable to Avenue Stores, LLC.
+ 
+5. Training.  Avenue Stores, LLC provides training to individuals who manage
+procurement and supply chain activities to ensure they understand our and our
+vendors’ compliance obligations under the CoC, ILO and the Act.
+Sign_up_for_texts Send me Avenue texts with fashion updates & special offers
+Sign_up_for_emails Send me Avenue emails with fashion updates & special offers
+**** GET SOCIAL ****
+***** CUSTOMER_SERVICE *****
+    * 1-888-843-2836
+    * Order_Status
+    * Shipping_Information
+    * Contact_Us
+***** SHOPPING_TOOLS *****
+    * Online_Catalogs
+    * Site_Map
+    * Size_Charts
+***** YOUR_ACCOUNT *****
+    * A-List_Rewards
+    * Sign_in / Register
+    * Wish_List
+    * Contact_Preferences
+    * Email_Unsubscribe
+***** AVENUE_CREDIT_CARD *****
+    * Pay_Your_Bill
+    * Cardholder_Appreciation
+    * [MyAvenue_Credit_Card]
+    * [Paypal]
+    * we accept: [MasterCard,Visa,_American_Express,Discover]
+©2020 Avenue Online, LLC. All Rights Reserved.
+    * About_Us
+    * Privacy_Policy
+    * Terms_of_Use
+    * Supply_Chain_Disclosures
+ 
+
+

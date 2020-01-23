@@ -1,0 +1,525 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       Skip_to_Main_Content
+{menuText}
+Not a member yet?
+Create an account
+Search    [Unknown INPUT type] submit
+    *   New
+
+          o Bags
+          o Travel
+          o Accessories
+          o Home
+          o Apparel
+          o
+    *   Bags
+
+          o Backpacks
+          o Crossbody_Bags
+          o Tote_Bags
+          o Lunch_Bags
+          o Diaper_Bags
+          o Laptop_Bags
+          o Shoulder_Bags
+          o Belt_Bags
+          o Mini_Bags
+          o
+    *   Travel
+
+          o Travel_Bags
+          o Backpacks
+          o Travel_Duffels
+          o Travel_Organizers
+          o Tote_Bags
+          o Travel_Accessories
+          o Rolling_Luggage
+          o Weekend_Bags
+          o
+    *   Accessories
+
+          o Wallets_and_Wristlets
+          o IDs_and_Lanyards
+          o Keychains_and_Charms
+          o Tech
+          o Makeup_Bags
+          o Sunglasses_and_Eyewear
+          o Seasonal_Accessories
+          o Hair_Accessories
+          o Patches
+          o Jewelry
+          o
+    *   Home
+
+          o Throw_Blankets
+          o Bedding
+          o Bath_Accessories
+          o Home_Accessories
+          o Desk_and_Stationery
+          o Drinkware
+          o Dinnerware
+          o
+    *   Apparel
+
+          o Sleepwear
+          o Footwear
+          o Socks
+          o Scarves
+          o
+    *   Gifts
+
+          o
+    *   Patterns
+          o
+    *   Fan_Shop
+          o
+    *   Custom
+          o
+    *   Collections
+          o
+    *   Sale
+
+          o Travel
+          o Bags
+          o Accessories
+          o Home
+          o Apparel
+          o
+    *   Discover
+          o
+          o Discover
+            Community
+                # Our Story
+                # Blog
+                # Vera_Bradley_Foundation
+                # Careers
+                # #verabradley
+                # Downloads
+            Connect with us for tips and style secrets we only give to our
+            closest friends. Read_the_blog
+                # [/_assets/merchandising/global/footer/footer-
+                  facebook.png]Facebook
+                # [/_assets/merchandising/global/footer/footer-
+                  twitter.png]Twitter
+                # [/_assets/merchandising/global/footer/footer-
+                  instagram.png]Instagram
+                # [/_assets/merchandising/global/footer/footer-
+                  pinterest.png]Pinterest
+                # [/_assets/merchandising/global/footer/footer-
+                  youtube.png]YouTube
+                # [/_assets/merchandising/global/footer/icon_email.png]Email
+                  Signup
+             
+             
+Find_a_Store
+    * Wishlist
+    * Bag_{count}
+Close Navigation Menu
+
+    *  {srOnlyText}
+    * Find_a_Store
+    * FREE SHIPPING FOR ALL ONLINE ORDERS!
+    *  Shopping_Bag_{count}
+    * Wish List
+    * {menuText}
+[Vera_Bradley]
+ Shop
+ Stores
+
+New
+
+Categories
+    * Bags
+    * Travel
+    * Accessories
+    * Home
+    * Apparel
+
+Top Patterns
+    * Gramercy_Paisley
+    * Sweethearts_and_Flowers
+    * Performance_Twill_Tranquil_Gray
+    * Deep_Night_Paisley
+ 
+
+Bags
+
+Categories
+    * Backpacks
+    * Crossbody_Bags
+    * Tote_Bags
+    * Lunch_Bags
+    * Diaper_Bags
+    * Laptop_Bags
+    * Shoulder_Bags
+    * Belt_Bags
+    * Mini_Bags
+
+Top Patterns
+    * Gramercy_Paisley
+    * Performance_Twill_Tranquil_Gray
+    * Deep_Night_Paisley
+    * Foxwood
+ 
+
+Travel
+
+Categories
+    * Travel_Bags
+    * Backpacks
+    * Travel_Duffels
+    * Travel_Organizers
+    * Tote_Bags
+    * Travel_Accessories
+    * Rolling_Luggage
+    * Weekend_Bags
+
+Top Patterns
+    * Gramercy_Paisley
+    * Performance_Twill_Tranquil_Gray
+    * Deep_Night_Paisley
+    * Foxwood
+ 
+ 
+
+Accessories
+
+Categories
+    * Wallets_and_Wristlets
+    * IDs_and_Lanyards
+    * Keychains_and_Charms
+    * Tech
+    * Makeup_Bags
+    * Sunglasses_and_Eyewear
+    * Seasonal_Accessories
+    * Hair_Accessories
+    * Patches
+    * Jewelry
+
+Top Patterns
+    * Gramercy_Paisley
+    * Sweethearts_and_Flowers
+    * Deep_Night_Paisley
+    * Foxwood
+
+Featured Styles
+    * Hanging_Travel_Organizer
+      $60.00
+    * RFID_All_in_One_Crossbody
+      $65.00
+    * Large_Cosmetic_Bag
+      $50.00
+    * RFID_Turnlock_Wallet
+      $60.00
+
+Home
+
+Categories
+    * Throw_Blankets
+    * Bedding
+    * Bath_Accessories
+    * Home_Accessories
+    * Desk_and_Stationery
+    * Drinkware
+    * Dinnerware
+
+Top Patterns
+    * Sweethearts_and_Flowers
+    * Foxwood
+    * Regal_Rosette
+    * Indiana_Rose
+
+Featured Styles
+    * Plush_Throw_Blanket
+      $55.00
+    * Casserole_Carrier
+      $36.00
+    * Travel_Mug
+      $16.00
+    * Valentine's_Day_Throw_Blanket
+      $70.00
+
+Apparel
+
+Categories
+    * Sleepwear
+    * Footwear
+    * Socks
+    * Scarves
+
+Top Patterns
+    * Sweethearts_and_Flowers
+    * Sweethearts_and_Flowers_White
+    * Foxwood
+    * Regal_Rosette
+ 
+
+Gifts
+
+Top Patterns
+    * Gramercy_Paisley
+    * Sweethearts_and_Flowers
+    * Deep_Night_Paisley
+    * Performance_Twill_Black
+
+Price
+    * $0_to_25
+    * $25_to_50
+    * $50_to_75
+    * $75_to_100
+    * $100_to_250
+ 
+
+Patterns
+
+Fan_Shop
+
+Custom
+
+Collections
+
+Sale
+
+Categories
+    * Travel
+    * Bags
+    * Accessories
+    * Home
+    * Apparel
+
+Top Patterns
+    * Beary_Merry
+    * Raspberry_Medallion
+    * Moonlight_Garden
+    * Daisy_Dot_Paisley
+ 
+Discover
+Community
+    * Our Story
+    * Blog
+    * Vera_Bradley_Foundation
+    * Careers
+    * #verabradley
+    * Downloads
+Connect with us for tips and style secrets we only give to our closest friends.
+Read_the_blog
+    * [/_assets/merchandising/global/footer/footer-facebook.png]Facebook
+    * [/_assets/merchandising/global/footer/footer-twitter.png]Twitter
+    * [/_assets/merchandising/global/footer/footer-instagram.png]Instagram
+    * [/_assets/merchandising/global/footer/footer-pinterest.png]Pinterest
+    * [/_assets/merchandising/global/footer/footer-youtube.png]YouTube
+    * [/_assets/merchandising/global/footer/icon_email.png]Email_Signup
+ 
+ 
+Search
+ Search
+ Shopping_Bag_{count}
+Search [Ntt                 ]
+[Go]
+
+    * Home
+    * Customer_Service
+    * Supply Chain
+**** Customer Service Menu   ****
+    * Customer_Service
+    * Contact_Us
+    * General_Information
+    * Shipping
+    * Returns
+    * Orders_and_Payment
+    * International_Orders
+    * FAQs
+    * Gifting
+    * My_Account
+    * Supply_Chain
+    * Product_Safety_&_Recall
+****** SUPPLY CHAIN ******
+*** Our Commitment ***
+In January of 2012, the state of California passed the Transparency in Supply
+Chains Act (the "Statute"). This Statute requires companies that conduct
+business in California to disclose their efforts to eradicate slavery and human
+trafficking from direct supply chains. More specifically, this Statute requires
+that companies disclose to what extent, if any, they address each of the five
+points below:
+*** Do you engage in verification of product supply chains to evaluate and
+address risks of human trafficking and slavery? ***
+Vera Bradley's Supplier Code of Conduct prohibits the use of forced,
+involuntary, or child labor of any kind in our supply chain. Suppliers may not
+participate in, or benefit from, any form of forced labor (including prison
+labor, indentured labor, bonded/debt labor, sale labor, etc.). Before we engage
+with a potential supplier, a Vera Bradley Auditor or third-party audit provider
+conducts an on-site audit to evaluate each potential supplier's ability to
+comply with our Supplier Code of Conduct.
+*** Do you conduct audits of suppliers to evaluate supplier compliance with
+company standards for trafficking and slavery in supply chains? ***
+Each facility of any supplier conducting business with Vera Bradley is subject
+to an audit to ensure that they are in compliance with our Supplier Code of
+Conduct. The audits are performed by either a trained Vera Bradley Auditor or a
+third-party audit provider who employs experts in local laws and who speak the
+local languages. The frequency of audits for each facility is based on factors
+such as prior risk assessment and previous audit results. Our goal is to audit
+each facility once per year. Currently our audits are scheduled with the
+suppliers due to the amount of time and resources required on-site to complete
+all audit requirements.
+*** Do you require direct suppliers to certify that materials incorporated into
+the product comply with the laws regarding slavery and human trafficking of the
+country or countries in which they are doing business? ***
+Vera Bradley requires all finished goods suppliers, as well as any direct-
+sourced component suppliers, to be in compliance with our Supplier Code of
+Conduct in addition to any applicable laws within the country of origin
+regarding slavery and human trafficking. We ask all suppliers to certify that
+the production of any additional materials incorporated into the product comply
+with the applicable laws regarding slavery and human trafficking of the
+countries with whom they are doing business.
+*** Do you maintain internal accountability standards and procedures for
+employees or contractors failing to meet company standards regarding slavery
+and trafficking? ***
+Our Supplier Code of Conduct states that any discovery of forced labor or human
+trafficking shall be treated as a zero-tolerance violation, which requires
+immediate corrective action by the supplier. In the event of a zero tolerance
+violation, Vera Bradley reserves the right to refuse to begin, or to terminate,
+a business relationship, regardless of any corrective action taken.
+*** Do you provide company employees and management, who have direct
+responsibility for supply chain management, training on human trafficking and
+slavery, particularly with respect to mitigating risks within the supply chain
+of products? ***
+Vera Bradley is currently working towards training all employees, management,
+and third-party audit providers who work with our supply chain with regards to
+the risks of human trafficking and slavery as well as what actions can be taken
+to mitigate these risks.
+***** Conflict Minerals *****
+Vera Bradley, Inc. believes that its commitment to integrity, human rights, and
+social responsibility extends to its global supply base. We support ending the
+violence and human rights violations in the mining of certain minerals from a
+location described as the "Conflict Region", which is situated in the eastern
+portion of the Democratic Republic of the Congo (DRC) and surrounding
+countries. The U.S. Securities and Exchange Commission adopted final rules to
+implement,as directed by Section 1502 of the Dodd-Frank Wall Street Reform and
+Consumer Protection Act of 2010. The rules require public companies to disclose
+basis whether the products they manufacture or contract to manufacture contain
+"conflict minerals" that are "necessary to the functionality or production" of
+those products and report to the SEC on an annual basis.
+The definition of "conflict minerals" refers to gold, as well as tin, tantalum,
+and tungsten, which are the derivatives of cassiterite, columbite-tantalite,
+and wolframite, regardless of where they are sourced, processed or sold. The
+U.S. Secretary of State may designate other materials to this list in the
+future. We support these requirements to further the humanitarian goal of
+ending violent conflict in the DRC and surrounding countries, which has been
+partially financed by the exploitation and trade of "conflict minerals".
+Our commitment:
+    * Support the aims and objectives of the U.S. legislation on the supply of
+      "conflict minerals".
+    * Do not knowingly procure specified metals that originate from facilities
+      in the "Conflict Region" that are not certified as "conflict free".
+    * Ensure compliance with these requirements, and ask our suppliers to
+      undertake reasonable due diligence with their supply chains to assure
+      that specified metals are being sourced only from:
+          o Mines and smelters outside the "Conflict Region" or
+          o Mines and smelters that have been certified by an independent third
+            party as "conflict free" if located within the "Conflict Region".
+This due diligence includes having our suppliers provide written evidence
+documenting that raw materials used to produce gold, tin, tantalum and
+tungsten, used in the materials to manufacture components and products supplied
+to Vera Bradley, Inc., originate from outside the "Conflict Region" or if they
+originate from within the "Conflict Region", that the mines or smelters be
+certified as "conflict free" by an independent third party. The aim is to
+ensure that only "conflict free" materials and components are used in products
+that we manufacture or procure.
+If we discover the use of these minerals produced in facilities that are
+considered to be "non-conflict free", in any material, finished good, or
+component we procure, we will take appropriate actions to transition that
+product to become "conflict free".
+*** SEC Filings: ***
+2013_Form_SD_(Special_Disclosure)
+2016_Conflict_Minerals_Report
+
+ 
+Make Like an Insider
+Get the latest news and offers before anyone else
+Email Address [Unknown INPUT type]
+[Join]
+SHARE_THE_FUN
+REFER_A_FRIEND_AND_ENJOY 20% OFF!
+Share_now
+Text_TEXTVB_to_82275_to_join_Vera Bradley mobile alerts
+By_submitting_your_mobile_number,_you_are_subscribing_to_Vera_Bradley_SMS/MMS
+Offer_Alert_program_for_up_to_6_messages_per_month._Message_and_data_rates_may
+apply.
+
+Shop
+    * Find_a_Store
+    * Gift_Cards
+    * Gift_Card_Balance
+    * Custom
+    * Personalization
+    * Prescription_Eyewear
+    * Annual_Outlet_Sale
+    * Vera_Bradley_Stores
+    * Factory_Outlet
+    * Team_Ordering
+Customer Service
+    * Customer_Service
+    * Contact_Us
+    * Order_Status
+    * Shipping
+    * Returns
+    * Return_Status
+    * International_Orders
+    * Appreciation_Discount
+    * Product_Safety_&_Recall
+    * Begin Co-Browse
+       
+About Us
+    * Careers
+    * VB_Cares
+    * Collaborations
+    * About_Us
+    * Downloads
+    * Retired_Patterns
+    * Vera_Bradley_Foundation
+    * Blog
+    * Investor_Relations
+    * Corporate_Responsibility
+    * Supply_Chain
+    * Corporate_Sales
+    * Become_a_Retailer
+    * Affiliate_Partners
+    * Partners_Login
+Don't Miss A Beat
+Follow us for special offers, styling tips and lots of fun surprises
+Connect with us on the Vera Bradley Blog for tips and style secrets we only
+give to our closest friends. Read_the_Blog
+And don't forget to use #verabradley when sharing your snaps!
+#verabradley
+ 
+[Vera_Bradley_logo]_[Vera_Bradley_logo]
+©2020 Vera Bradley Sales, LLC. All rights reserved.
+    * Terms_of_Use
+    * Legal_Notices
+    * Privacy_Policy
+    * Your_CA_Privacy_Rights
+    * Accessibility
+    * Sitemap

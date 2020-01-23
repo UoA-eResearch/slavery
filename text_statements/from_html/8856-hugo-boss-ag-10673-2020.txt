@@ -1,0 +1,304 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    * Shop
+    * DE
+    * EN
+    * Unternehmen
+       
+          o Ãber_HUGO_BOSS
+          o Strategie
+          o Marken
+          o Management
+             
+                # Vorstand
+                # Aufsichtsrat
+          o Geschichte
+          o Innovation
+          o Corporate_Governance
+             
+                # EntsprechenserklÃ¤rung
+                # UnternehmensfÃ¼hrung
+                # VergÃ¼tung
+                # Risikomanagement
+                # Steuerstrategie
+                # Satzung_&_GeschÃ¤ftsordnungen
+          o Kontakt
+    * Investoren
+       
+          o Investment_Case
+             
+                # HUGO_BOSS_auf_einen_Blick
+                # Ausblick_&_Ziele
+                # Kennzahlen
+          o Aktie
+             
+                # Aktienkurs
+                # AktionÃ¤rsstruktur
+                # Dividende
+                # AnalystenschÃ¤tzungen
+                # ADR-Programm
+          o VerÃ¶ffentlichungen
+             
+                # Ergebnisse
+                # Kapitalmarktnachrichten
+          o Veranstaltungen
+             
+                # Veranstaltungskalender
+                # Veranstaltungsarchiv
+                # Hauptversammlung
+          o Service_&_Kontakt
+             
+                # AktionÃ¤rsservice
+                # FAQ
+                # Kontakt
+    * Verantwortung
+       
+          o We:_Vision_&_Strategie
+             
+                # Handlungsfelder_&_Ziele
+                # Wesentlichkeitsanalyse
+                # Naturkapitalbewertung
+                # Kollaborationen_&_Dialog
+          o Umwelt
+             
+                # Energie_&_Emissionen
+                # Wasser_&_Abfall
+                # Verpackung_&_Logistik
+          o Mitarbeiter
+             
+                # Einbindung,_FÃ¶rderung_&_Diversity
+                # Menschenrechte_&_Arbeitsbedingungen
+                # Arbeitssicherheit_&_Gesundheit
+          o Partner
+             
+                # Lieferanten
+                # Soziale_Aspekte
+                # Umweltaspekte
+          o Produkte
+             
+                # Tierwohl
+                # Nachhaltige_Materialien
+                # Circular_Design_Strategie
+          o Gesellschaft
+             
+                # BildungsfÃ¶rderung
+                # Berufliche_FÃ¶rderung
+                # Kreative_FÃ¶rderung
+          o News_&_Downloads
+             
+                # Aktuelle_Themen
+                # Nachhaltigkeitsberichte
+                # UnternehmensleitfÃ¤den
+    * Karriere
+       
+          o Jobs
+          o Arbeiten_bei_HUGO_BOSS
+          o Standorte
+          o Einblicke
+             
+                # Retail
+                # Creative
+                # Digital
+                # IT
+          o Ihr_Einstieg
+             
+                # Professionals
+                # Studenten_&_Absolventen
+                # SchÃ¼ler
+          o Ihre_Bewerbung
+             
+                # FAQ
+                # Bewerbungstipps
+                # Kontakt
+    * Sponsoring
+       
+          o Sportsponsoring
+             
+                # Golf
+                # Motorsport
+                # Segeln
+                # FuÃball
+          o Kultursponsoring
+             
+                # HUGO_BOSS_PRIZE
+                # HUGO_BOSS_ASIA_ART_Award
+                # Ausstellungen_&_Projekte
+          o Markenkooperationen
+             
+                # Porsche_x_BOSS
+                # HUGO_x_Liam_Payne
+                # BOSS_x_MEISSEN
+    * Presse
+       
+          o Pressemitteilungen
+          o Pressekontakt
+Unternehmen
+[data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+    * Ãber_HUGO_BOSS
+    * Strategie
+    * Marken
+    * Management
+    * Geschichte
+    * Innovation
+    * Corporate_Governance
+    * Kontakt
+Investoren
+[data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+    * Investment_Case
+    * Aktie
+    * VerÃ¶ffentlichungen
+    * Veranstaltungen
+    * Service_&_Kontakt
+Verantwortung
+[data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+    * We:_Vision_&_Strategie
+    * Umwelt
+    * Mitarbeiter
+    * Partner
+    * Produkte
+    * Gesellschaft
+    * News_&_Downloads
+Karriere
+[data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+    * Jobs
+    * Arbeiten_bei_HUGO_BOSS
+    * Standorte
+    * Einblicke
+    * Ihr_Einstieg
+    * Ihre_Bewerbung
+Sponsoring
+[data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+    * Sportsponsoring
+    * Kultursponsoring
+    * Markenkooperationen
+Presse
+[data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+    * Pressemitteilungen
+    * Pressekontakt
+
+[HUGO_BOSS_Logo]
+    * Shop
+    * DE
+    * EN
+
+ [tx_torrelastic_search[search][term]] [Submit]
+
+[HUGO_BOSS_Logo]
+    * Shop
+    * DE
+    * EN
+
+ [tx_torrelastic_search[search][term]] [Submit]
+
+Ich interessiere mich fÃ¼r
+Das_Unternehmen Direkter_Kontakt Nachhaltigkeit Investor_Relations
+Pressekontakte Karriere_bei_HUGO_BOSS Offene_Stellenangebote Sponsoring
+Marken
+Fashion_Show_Shanghai
+Fashion
+HUGO_loves_Bowie
+Markenkooperation
+Globale_Kooperation_mit_Porsche
+Markenkooperation
+Liam_Payne_ist_neuer_HUGO_Markenbotschafter
+Social_Media
+Folgen_Sie_@HUGOBOSS_auf_Twitter
+Die_Marken_von_HUGO_BOSS
+Unsere_Marken:_Das_HerzstÃ¼ck_unseres_Unternehmens
+Personalisierung_&_Schnelligkeit
+Unternehmensstrategie
+Innovation_bei_HUGO_BOSS
+Digitalisierung:_vom_Entwurf_bis_zum_Vertrieb
+Im_Interview
+100_Jahre_Bauhaus
+Financial_Highlights
+GeschÃ¤ftsbericht_2018
+Sportsponsoring
+Die_VendÃ©e_Globe:_der_"Everest_der_Meere"
+Kultursponsoring
+Die_Ausstellung_"Objekte_der_Begierde"
+Kundenzentriert, digital, agil, global, nachhaltig â dafÃ¼r steht HUGO BOSS.
+HUGO_BOSS_Job-Portal
+Ihr_Traumjob_in_der_Modebranche
+Gezielte_WiedereinstiegsfÃ¶rderung_fÃ¼r_Frauen
+Erfolgreicher_mit_gezielter_FÃ¶rderung
+***** Zahlen und Fakten *****
+HUGO BOSS auf einen Blick
+2.796
+Mio. EUR Umsatz
+Mio. EUR Umsatz
+  Created with Sketch.
+2018
+419
+Freistehende EinzelhandelsgeschÃ¤fte
+Freistehende EinzelhandelsgeschÃ¤fte
+  Created with Sketch.
+2018
+14.685
+Mitarbeiter
+Mitarbeiter
+  Created with Sketch.
+2018
+
+*****_Kontakt_*****
+HUGO BOSS AG
+DieselstraÃe 12
+72555 Metzingen
+
+Tel.: +49 7123 94-0
+Fax: +49 7123 94-80259
+
+KONTAKTFORMULAR
+*****_Rechtliches_*****
+    * Impressum
+    * Datenschutz
+    * Cookies
+    * Cookie_Einstellungen
+    * Nutzungsbedingungen
+    *
+    * HUGO_BOSS_Inc._Canada_Privacy_Statement
+    * Yasal_Bilgiler
+    * VideoÃ¼berwachung
+    * UK_Modern_Slavery_Act_/_CA_Supply_Chain_Disclosure
+    * Produktpiraterie
+*****_Entdecken_*****
+    * Online_Store
+    * BOSS_Storys
+    * HUGO_Storys
+    *
+    * Jobs_bei_HUGO_BOSS
+    * Investoren
+    * Pressemitteilungen
+HUGO BOSS Corporate
+HUGO BOSS Brands
+
+ BOSS  HUGO
+© 2020 HUGO BOSS All rights reserved

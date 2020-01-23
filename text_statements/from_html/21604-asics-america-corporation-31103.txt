@@ -1,0 +1,439 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip_to_content
+
+    * Store_Locator
+    * My_Account
+    * [Onitsuka_Tiger]
+    * [ASICS_Tiger]
+    *  Search [text                ]
+      [More]
+ Toggle navigation
+Menu
+[ASICS]
+    * Men
+            ** Featured **
+          o New_Arrivals
+    * Best_Sellers
+    * Shop_Instagram
+    * Shoe_Finder
+    * Extended_Widths
+    * 4abdde title="SEMI-ANNUAL SALE" style="color: #4abdde" >SEMI-ANNUAL SALE
+ 
+Shop By Sport
+Running
+Training
+Tennis
+Trail
+Wrestling
+Volleyball
+      ** Shoes **
+    * [Shop_Mens_Shoes]All_Shoes
+Running
+Training
+Wrestling
+Volleyball
+Tennis
+Trail_Running
+Track_&_Field
+Other_Sports
+      ** Clothing **
+    * [Shop_Mens_Clothing]All_Clothing
+Tops
+Bottoms
+Outerwear
+Accessories
+Socks
+      ** Collections **
+    * Flytefoam_Collection
+GEL-Kayano
+GEL-Nimbus
+GEL-Quantum_Series
+GEL-Cumulus
+GT_Series
+DynaFlyte
+Lite-Show
+The_JB_Elite_Collection
+HyperGEL
+      ** Lifestyle **
+    * [Shop_Mens_Onitsuka_Tiger]Onitsuka_Tiger
+[Shop_Mens_ASICS_Tiger]ASICS_Tiger
+    * Test
+    * Back
+    * Featured
+      New_Arrivals
+      Best_Sellers
+      Shop_Instagram
+      Shoe_Finder
+      Extended_Widths
+      4abdde title="SEMI-ANNUAL SALE" style="color: #4abdde" >SEMI-ANNUAL SALE
+Shop By Sport
+Running
+Training
+Tennis
+Trail
+Wrestling
+Volleyball
+Shoes
+[Shop_Mens_Shoes]All_Shoes
+Running
+Training
+Wrestling
+Volleyball
+Tennis
+Trail_Running
+Track_&_Field
+Other_Sports
+Clothing
+[Shop_Mens_Clothing]All_Clothing
+Tops
+Bottoms
+Outerwear
+Accessories
+Socks
+Collections
+Flytefoam_Collection
+GEL-Kayano
+GEL-Nimbus
+GEL-Quantum_Series
+GEL-Cumulus
+GT_Series
+DynaFlyte
+Lite-Show
+The_JB_Elite_Collection
+HyperGEL
+Lifestyle
+[Shop_Mens_Onitsuka_Tiger]Onitsuka_Tiger
+[Shop_Mens_ASICS_Tiger]ASICS_Tiger
+Women
+      ** Featured **
+New_Arrivals
+Best_Sellers
+Shop_Instagram
+Shoe_Finder
+Extended_Widths
+4abdde title="SEMI-ANNUAL SALE" style="color: #4abdde" >SEMI-ANNUAL SALE
+ 
+Shop By Sport
+Running
+Training
+Trail
+Volleyball
+Tennis
+      ** Shoes **
+    * [Shop_Womens_Shoes]All_Shoes
+Running
+Training
+Volleyball
+Tennis
+Trail_Running
+Track_&_Field
+Other_Sports
+      ** Clothing **
+    * [Shop_Womens_Clothing]All_Clothing
+Tops
+Bottoms
+Sports_Bras
+Outerwear
+Accessories
+Socks
+      ** Collections **
+    * [Learn_More_about_FlyteFoam]FlyteFoam_Collection
+GEL-Kayano
+GEL-Nimbus
+GEL-Quantum_Series
+GEL-Cumulus
+GT_Series
+Lite-Show
+DynaFlyte
+HyperGEL
+      ** Lifestyle **
+    * [Shop_Womens_Onitsuka_Tiger]Onitsuka_Tiger
+[Shop_Womens_ASICS_Tiger]ASICS_Tiger
+    * Test
+    * Back
+    * Featured
+      New_Arrivals
+      Best_Sellers
+      Shop_Instagram
+      Shoe_Finder
+      Extended_Widths
+      4abdde title="SEMI-ANNUAL SALE" style="color: #4abdde" >SEMI-ANNUAL SALE
+Shop By Sport
+Running
+Training
+Trail
+Volleyball
+Tennis
+Shoes
+[Shop_Womens_Shoes]All_Shoes
+Running
+Training
+Volleyball
+Tennis
+Trail_Running
+Track_&_Field
+Other_Sports
+Clothing
+[Shop_Womens_Clothing]All_Clothing
+Tops
+Bottoms
+Sports_Bras
+Outerwear
+Accessories
+Socks
+Collections
+[Learn_More_about_FlyteFoam]FlyteFoam_Collection
+GEL-Kayano
+GEL-Nimbus
+GEL-Quantum_Series
+GEL-Cumulus
+GT_Series
+Lite-Show
+DynaFlyte
+HyperGEL
+Lifestyle
+[Shop_Womens_Onitsuka_Tiger]Onitsuka_Tiger
+[Shop_Womens_ASICS_Tiger]ASICS_Tiger
+Kids
+      ** Featured **
+    * New_Arrivals
+Best_Sellers
+4abdde title="SEMI-ANNUAL SALE" style="color: #4abdde" >SEMI-ANNUAL SALE
+      ** Shop By Size **
+    * [Shop_the_Kids_Tennis_Shoes]
+Grade_School_(3.5-7)
+Pre-School_(K10-3)
+Toddler_(K4-K9)
+      ** Shoes **
+    * [Shop_Kids_Running_Shoes]
+All_Shoes
+Running
+Other_Sports
+      ** Collections **
+    * [Shop_Kids_GEL-Quantum_Series]
+GEL-Kayano
+GEL-Nimbus
+GT_Series
+GEL-Quantum_Series
+GEL-Noosa
+      ** Lifestyle **
+    * [Shop_Kids_Onitsuka_Tiger]Onitsuka_Tiger
+[Shop_Kids_ASICS_Tiger]ASICS_Tiger
+    * Test
+    * Back
+    * Featured
+      New_Arrivals
+      Best_Sellers
+      4abdde title="SEMI-ANNUAL SALE" style="color: #4abdde" >SEMI-ANNUAL SALE
+Shop By Size
+Grade_School_(3.5-7)
+Pre-School_(K10-3)
+Toddler_(K4-K9)
+Shoes
+All_Shoes
+Running
+Other_Sports
+Collections
+GEL-Kayano
+GEL-Nimbus
+GT_Series
+GEL-Quantum_Series
+GEL-Noosa
+Lifestyle
+[Shop_Kids_Onitsuka_Tiger]Onitsuka_Tiger
+[Shop_Kids_ASICS_Tiger]ASICS_Tiger
+Inside_ASICS
+      ** Sports **
+    * Running
+Training
+Tennis
+Our_Athletes
+      ** Collections **
+    * GEL-Nimbus
+GEL-Cumulus
+GEL-Kayano
+GT-2000
+Dynaflyte
+Roadhawk
+Metarun
+Hyper-GEL
+GEL-Quantum_Infinity
+      ** Spotlight **
+    * [InsideASICS_I_Move_Me_Image]I_Move_Me
+[Inside_ASICS_-_Runkeeper_Application_on_phone_and_man_running]ASICS
+Runkeeperâ¢_App
+    * [InsideASICS_Technology_Image]Technology
+[Inside_ASICS_-_ASICS_Studio_application_on_phone_with_two_women_performing
+lunges]ASICS_Studioâ¢_App
+    * [Inside_Asics_-_Advice_Image]Advice
+[Are_you_up_for_the_21_day_challenge?]21-Day_Challenge
+    * Test
+    * Back
+    * Sports
+      Running
+      Training
+      Tennis
+      Our_Athletes
+    * Collections
+      GEL-Nimbus
+      GEL-Cumulus
+      GEL-Kayano
+      GT-2000
+      Dynaflyte
+      Roadhawk
+      Metarun
+      Hyper-GEL
+      GEL-Quantum_Infinity
+    * Spotlight
+      [InsideASICS_I_Move_Me_Image]I_Move_Me
+      [Inside_ASICS_-_Runkeeper_Application_on_phone_and_man_running]ASICS
+      Runkeeperâ¢_App
+      [InsideASICS_Technology_Image]Technology
+      [Inside_ASICS_-_ASICS_Studio_application_on_phone_with_two_women
+      performing_lunges]ASICS_Studioâ¢_App
+      [Inside_Asics_-_Advice_Image]Advice
+      [Are_you_up_for_the_21_day_challenge?]21-Day_Challenge
+My_Account
+Store_Locator
+Cart_0
+    *  Search [text                ]
+      [More]
+****** California Laws ******
+===============================================================================
+    * About_ASICS
+    * California_Laws
+    * Privacy_Policy
+    * Cookie_Policy
+    * Overview_of_ASICS_Companies
+    * Terms_And_Conditions
+    * Promotional_Terms
+    * Local_Deviation
+    * Ethics_Hotline
+***** California transparency in Supply Chains Act of 2010 (SB657) *****
+The California Transparency in Supply Chains Act of 2010 (SB657) requires
+retail sellers and manufacturers doing business in California to disclose their
+efforts to eradicate slavery and human trafficking in their direct supply
+chain.
+ASICS America Corporation uses the below accepted definitions of Slavery and
+Human Trafficking to formulate its disclosure:
+Slavery is "the most extreme version of forced labor where a person is under
+the absolute control of another person who exercises powers of ownership. The
+arrangement is permanent in nature and, in some cases, based on descent. The
+enslaved person is treated as a commodity and property and is restricted in
+terms of freedom of movement.", as defined by several in the NGO community.
+Human Trafficking is "any recruitment, harboring, transportation, provision, or
+obtaining of a person for labor services, through the use of force, fraud, or
+coercion for the purpose of subjection to involuntary servitude, peonage, debt
+bondage, or slavery.", as defined in the Victims of Trafficking and Violence
+Protections Act (VTVPA) of 2000. Human trafficking is also known as modern-day
+slave trade.
+ASICS America Corporation condemns the use of force or involuntary labor and
+deploys international monitors as well as certified third party auditors to
+verify its supply chain compliance to this zero tolerance point.
+Many years ago, ASICS America Corporation realized that workers' conditions
+everywhere were a vital component of a sound supply chain and has dedicated a
+team of Corporate Social Responsibility (CSR) specialists to monitor vendor
+compliance performance in agreement with its vendor Policy of Engagement and
+Code of Conduct. Manufacturing partners sign a vendor agreement which includes
+acceptance to comply with our Policy of Engagement. Not meeting these terms can
+result in the termination of the business relationship. This policy is based on
+ASICS Philosophy, ASICS Vision and ASICS Code of Conduct as well as the World
+Federation of Sporting Goods Industry (WFSGI) model Code of Conduct.
+ASICS America Corporation’s vendor agreement requires all suppliers to operate
+in full compliance with all national and local laws, rules and regulations
+applicable to their business operations and in cases where no local laws exist,
+ASICS America Corporation expects that international standards become the rule
+to be followed.
+ASICS America Corporation global supply chain partners are evaluated on their
+compliance of the Policy of Engagement based on a combination of announced and
+unannounced audits conducted by third party accredited monitors as well as
+internal compliance specialists.
+Over and above ASICS America Corporation vendor requirements and expectations,
+“ASICS Code of Conduct” sets out the basic standards by which all members of
+ASICS Group must comply during their daily activities and with each business
+decision. All directors, officers and employees in ASICS Group are required to
+review, understand and comply with this Code.
+ASICS America Corporation provides training to ensure the necessary
+participants in supply chain management are knowledgeable and aware of the
+issues and concerns surrounding the supply chain, including human trafficking
+and slavery with a particular focus on mitigating risks. ASICS America
+Corporation works with third party trainers and invites factory management to
+participate in CSR seminars, trainings and or conferences in the bigger
+manufacturing centers around the world.
+===============================================================================
+Back to the top
+*** Customer Service ***
+    * Store_Locator
+    * Returns_Policy
+    * Shipping
+    * Order_Tracking
+    * Give_Back_Box
+    * Download_Team_Catalog
+    * Warranty_Form
+    * Contact_ASICS
+    * _FAQ
+*** Sizing Guides ***
+    * Shoe_Size_Guide
+    * Shoe_Width_Guide
+    * Clothing_Size_Guide
+    * Pronation_Guide
+*** CORPORATE INFO ***
+    * About_ASICS
+    * Corporate_Responsibility
+    * California_Laws
+    * Intellectual_Property
+    * Careers
+    * ff0000 title="Privacy Policy - Updated June 2, 2018" style="color:
+      #ff0000" >Privacy Policy - Updated June 2, 2018
+Terms_of_Use
+*** SHOP ***
+    * New_Arrivals
+    * Best_Sellers
+    * Shoes
+    * Clothing
+    * Accessories
+    * Clearance
+SIGN UP FOR OUR NEWSLETTER- Sign up for ASICS news
+SIGN UP FOR OUR NEWSLETTER
+
+ Enter your Email address [Unknown INPUT type] [Submit]
+Be the first to learn about new product releases, exclusive events and online
+offers.
+    * Facebook
+    * Twitter
+    * Instagram
+    * Pinterest
+    * Youtube
+Stay Connected
+    * Facebook
+    * Twitter
+    * Instagram
+    * Pinterest
+    * Youtube
+© 2019 ASICS America Corporation. All Rights Reserved.
+United States CHANGE_REGION
+The stripe design featured on the sides of the ASICSÂ® shoes is a registered
+trademark of ASICS Corporation.
+SIGN UP FOR OUR NEWSLETTER
+***** Thank you for visiting our online store. *****
+You have been redirected to the ASICS US site, which delivers to 
+ Continue to ASICS US

@@ -1,0 +1,455 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Final_Reductions_in_the_Rapha_Sale_-_save_up_to_60%
+
+   1. Sale_[/_ui/build/images/dropdown-arrow.svg]
+         1.    1. _Men's_Sale_
+               2. Sale_Jerseys
+               3. Sale_Jackets
+               4. Sale_Bib_Shorts_&_Tights
+               5. All_Men's_Sale
+               6. Archive_Sale
+         2.    1. _Women's_Sale_
+               2. Sale_Jerseys
+               3. Sale_Jackets
+               4. Sale_Bib_Shorts_&_Tights
+               5. All_Women's_Sale
+               6. Archive_Sale
+   2. Men_[/_ui/build/images/dropdown-arrow.svg]
+         1.    1. _Men's_Sale_
+               2. Sale_Jerseys
+               3. Sale_Jackets
+               4. Sale_Bib_Shorts_&_Tights
+               5. All_Men's_Sale
+               6. Archive_Sale
+         2.    1. _On_Bike_
+               2. Jerseys
+               3. Bib_Shorts_&_Tights
+               4. Jackets_&_Gilets
+               5. Base_Layers
+               6. Hats_&_Caps
+               7. Gloves_&_Mitts
+               8. Socks_&_Overshoes
+               9. Shoes
+              10. Riding_Accessories
+         3.    1. _Off_Bike_
+               2. Outerwear
+               3. T-Shirts_&_Tops
+               4. Shorts_&_Trousers
+               5. Bags_&_Leather_Goods
+               6. Bookstore
+               7. Gifts
+         4.    1. _Highlights_
+               2. New_Arrivals
+               3. EF_Pro_Cycling
+               4. Coming_Soon
+               5. Bundles
+               6. Rapha_Cycling_Club_Kit
+               7. Pro_Team
+               8. Classic
+               9. Core
+              10. Brevet
+              11. Logo
+              12. Rapha_+_GORE-TEX
+         5.    1. _Custom_
+               2. About_Custom
+               3. Product_Overview
+               4. Saved_Products
+               5. Why_Rapha_Custom?
+               6. Book_a_Fitting_Appointment
+               7. Custom_FAQ
+               8. Custom_Terms_&_Conditions
+   3. Women_[/_ui/build/images/dropdown-arrow.svg]
+         1.    1. _Women's_Sale_
+               2. Sale_Jerseys
+               3. Sale_Jackets
+               4. Sale_Bib_Shorts_&_Tights
+               5. All_Women's_Sale
+               6. Archive_Sale
+         2.    1. _On_Bike_
+               2. Jerseys
+               3. Bib_Shorts_&_Tights
+               4. Jackets_&_Gilets
+               5. Bras_&_Base_Layers
+               6. Hats_&_Caps
+               7. Gloves_&_Mitts
+               8. Socks_&_Overshoes
+               9. Shoes
+              10. Riding_Accessories
+         3.    1. _Off_Bike_
+               2. T-shirts_&_Tops
+               3. Shorts_&_Trousers
+               4. Bags_&_Leather_Goods
+               5. Bookstore
+               6. Gifts
+         4.    1. _Highlights_
+               2. New_Arrivals
+               3. EF_Pro_Cycling
+               4. Coming_Soon
+               5. Bundles
+               6. Rapha_Cycling_Club_Kit
+               7. Souplesse
+               8. Classic
+               9. Core
+              10. Brevet
+              11. Logo
+              12. Rapha_+_GORE-TEX
+         5.    1. _Custom_
+               2. About_Custom
+               3. Product_Overview
+               4. Saved_Products
+               5. Why_Rapha_Custom?
+               6. Book_a_Fitting_Appointment
+               7. Custom_FAQ
+               8. Custom_Terms_&_Conditions
+   4. Ride_[/_ui/build/images/dropdown-arrow.svg]
+         1.    1. _What's_On_
+               2. Ride_With_Us
+               3. Find_an_Event
+               4. Rapha_Cycling_Club
+               5. Rapha_Prestige_Rides
+               6. Women's_100
+               7. Etape_Du_Tour
+               8. A_Day_In_Hell
+               9. London_to_Manchester
+              10. View_All
+         2.    1. _Stores_
+               2. Find_a_Clubhouse
+         3.    1. _Rapha_Cycling_Club_
+               2. What_is_the_RCC?
+               3. Discover_the_Benefits
+               4. RCC_Kit
+               5. Coming_Soon
+               6. Where_To_Find_The_RCC
+               7. Bike_Hire
+               8. Summits_and_Escapes
+               9. Join_now
+         4.    1. _Teams_
+               2. EF_Education_First
+               3. Canyon//SRAM
+         5.    1. _Rapha_Foundation_
+               2. Foundation's_Purpose
+               3. Register_Interest
+   5. Stories_[/_ui/build/images/dropdown-arrow.svg]
+         1.    1. _Products_
+               2. In_Detail
+               3. Collections
+               4. Guides
+         2.    1. _Racing_
+               2. EF_Education_First
+               3. CANYON//SRAM
+               4. The_Cycling_Podcast
+               5. Cross
+               6. General
+         3.    1. _Editorial_
+               2. Doppio_en_France
+               3. RCC
+               4. Rides
+               5. Inspiration
+         4.    1. _Events_
+               2. Women's_100
+               3. Festive_500
+               4. London_to_Manchester
+               5. Grinduro
+               6. Prestige
+               7. A_Day_In_Hell
+               8. Étape
+
+
+_____
+
+_____________
+    * Sign_in
+    * Register
+______
+
+ __ # Basket0 o Wish list
+    * Your basket is empty
+      Continue_shopping
+    * Your wish list is empty
+      Continue_shopping
+
+[text                ]  All results
+Sorry, we couldn't find any results for your search.
+    * Suggested Searches
+    * EF_Education_First
+    * Shoes
+    * Socks
+    * Water_Bottle
+    * Merino
+# Products o Stories o Custom
+  [Close]
+
+    * Customer_service
+    * Cookies
+    * FAQ
+    * Industry_Purchase_Program
+    * IPP_terms_and_conditions
+    * Jersey_Downsize_Offer
+    * Men's_Sizing_Guide
+    * Women's_Sizing_Guide
+    * Ordering_and_Payment
+    * Press_Enquiries
+    * Privacy_Policy
+    * Modern_slavery_statement
+    * RCC_app_privacy_policy
+    * RCC_terms_and_conditions
+    * Bike_hire_terms_and_conditions
+    * Repair_Service
+    * Returns
+    * Shipping
+    * Travel_terms_and_conditions
+    * Website_terms_and_conditions
+    * Classics_Guarantee
+
+****** Rapha Racing Ltd Modern Slavery Statement ******
+
+This statement has been published in accordance with the Modern Slavery Act
+2015. It sets out the steps taken by Rapha Racing Ltd (Rapha) during the year
+ending 31st January 2019 to prevent modern slavery and human trafficking in its
+business and supply chain.
+***** Introduction *****
+Rapha was established in 2004 as an online retail company, and has since
+expanded to include physical retail spaces known as Clubhouses. These can
+currently be found in 23 vibrant cycling locations around the world, as well as
+temporary Pop-Ups and Mobile Clubhouses out on the road.
+At Rapha, we have built a reputation for maintaining the highest possible
+quality and the most technically advanced production techniques in cycling
+apparel manufacturing, with a nod to the nostalgia and culture of road cycling.
+To achieve consistent high standards, Rapha works only with the best in the
+industry, delivering products ranging from vintage merino tracksuits to
+WorldTour-winning racing apparel. Rapha is headquartered in London, where it
+was founded, and has regional offices in the US, Australia, Japan and Hong
+Kong. In addition, Rapha has a non-retail presence in Switzerland, France,
+Austria, Germany and Singapore.
+For this period, Rapha worked with 33 Tier 1 (finished goods) suppliers
+globally, including those located in China, Vietnam, Italy, Portugal and the
+USA. Our suppliers represent leaders in their field and are an integral and
+valued part of realising our product vision. Due to the high standards of
+workmanship and the reputation of the suppliers we work with, our suppliers
+typically provide excellent working conditions for their employees.
+As we continue to grow, we understand the very real risk of forced labour,
+fraud or coercion among employees in global business supply chains, and are
+committed to help combat modern slavery wherever possible.
+At Rapha, we insist that our suppliers share our fundamental ethics and values.
+These values are presented in our Code of Conduct, which is in line with the
+Ethical_Trading_Initiative’s_(ETI)_Base_Code, and the conventions of the
+International Labour Organisation (ILO). We work closely with our suppliers to
+ensure these high levels of working standards are maintained, and all of our
+suppliers are asked to sign this document during the initial on-boarding
+process. It covers but is not limited to Rapha's expectations of Anti-Bribery,
+Worker Discrimination, Working Hours, Freedom of Association and Child Labour.
+Before committing to production with a new supplier, or a new facility with an
+existing supplier, we carry out a 3rd party social audit which includes health
+& safety checks, cleanliness, broken needle policies, timekeeping procedures
+and social facilities. If any non-compliance is uncovered the supplier must
+present a remediation plan and timeline, followed by a second audit to give
+evidence for the improvements made.
+Rapha has shared a working relationship with many suppliers since the formation
+of the company. To maintain relationship integrity, wherever possible, we
+encourage face to face communication between our staff and suppliers at all
+levels of seniority. Our staff regularly visit our suppliers in person, touring
+the factory and its facilities. This allows us to assess firsthand the
+conditions of the facility on a regular basis. Our staff are acutely aware of
+the standards we deem acceptable and their feedback following a visit
+contributes to the ongoing assessment of our suppliers. To date, there have
+been no instances of exiting a factory due to poor working conditions.
+To further improve engagement and accountability, communication with our Tier 1
+suppliers is divided between the members of our Supply Chain Team. This ensures
+that all orders, quality inspections and social audits are requested and
+received by the same individual, giving them a holistic understanding of a
+supplier’s performance and any grievances they may have. This depth of
+relationship allows for the highest quality of communication. It also gives us
+the capacity to adopt new and more effective ways of working.
+***** LOOKING FORWARD *****
+As Rapha grows as a business, we are committed to acknowledging our
+responsibility as a manufacturer. In late 2018 Rapha created a full time
+position, the Sustainability Lead, which is dedicated to actively seeking out
+and utilising industry leading programs for the monitoring of social compliance
+in its supply chain. As a result of this research, Rapha became members of the
+Sustainable_Apparel_Coalition (SAC), a community of brands from within the
+apparel and footwear industry committed to the betterment of the sector through
+collaboration and the development of standardised performance tools. One of the
+primary benefits of the SAC is its suite of Higg Index tools, particularly in
+this case the Facility Social Labour Module (FSLM) which we will use to engage
+with our suppliers. In the coming financial year, we will look to onboard
+strategic suppliers, by centralising social audits through this platform. For
+supply chain partners that are not already part of the Higg Index, we will be
+working with them on a one to one basis, to ensure confidence and adoption of
+this system.
+We are actively leveraging the SAC tools and network to improve our
+understanding of our supply chain. Our findings will continue to inform our
+Modern Slavery policies going forward.
+As part of our ongoing efforts, we have conducted an assessment of our existing
+policies related to Modern Slavery. These findings, in conjunction with expert
+legal consultation have helped inform a wider, more stringent Master Service
+Agreement that will be rolled out to all our Tier 1 suppliers in the coming
+year. This Master Service Agreement will help to expand on and strengthen our
+Code of Conduct and enforce our position on conditions and working practices
+related to Modern Slavery.
+[https://dyzmn8020x6cd.cloudfront.net/sys-master/nonproduct/h54/h21/
+9507120742430/simon-sig-512x288.jpg]
+Simon Mottram, CEO
+
+
+*** Sign up for RAPHA news ***
+[Unknown INPUT type] SIGN UP
+By signing up to the Rapha newsletter you agree to our Terms_and_Conditions and
+that you have read our Privacy_Policy, including our Cookie_use.
+Uh oh, that email is not valid.
+Thanks for subscribing.
+
+*** Customer services ***
++44(0)207_485_5000 enquiries@rapha.cc Find_a_Store FAQ Shipping Returns Repair
+Service
+*** Information ***
+About_Rapha Work_at_Rapha Rapha_Foundation Industry_Purchase_Program Press
+Enquiries Privacy_Policy Terms_&_Conditions Sustainability Modern_Slavery
+Statement Cookies
+*** Follow Rapha ***
+
+ [facebook]
+ [instagram]
+ [twitter]
+ [vimeo]
+ [youtube]
+*** Change Country ***
+[United Kingdom] United Kingdom (£)
+© Rapha Racing Limited 2020. All rights reserved.
+[/_ui/build/images/logo.svg]
+
+ [Close]
+***** Select Region *****
+**** AMERICAS ****
+    * [United States]
+      *** United States ***
+      US Dollars
+      English
+    * [Canada]
+      *** Canada ***
+      CAD Dollars
+      English French
+**** INTERNATIONAL ****
+    * [Rest of World]
+      *** Rest of World ***
+      US Dollars
+      English
+**** EUROPE ****
+    * [United Kingdom]
+      *** United Kingdom ***
+      GB Pound
+      English
+    * [France]
+      *** France ***
+      Euro
+      French English
+    * [Deutschland]
+      *** Deutschland ***
+      Euro
+      German English
+    * [Italy]
+      *** Italy ***
+      Euro
+      English
+    * [Spain]
+      *** Spain ***
+      Euro
+      Spanish English
+    * [Austria]
+      *** Austria ***
+      Euro
+      German English
+    * [Netherlands]
+      *** Netherlands ***
+      Euro
+      English
+    * [Switzerland]
+      *** Switzerland ***
+      Swiss Franc
+      French German English
+    * [Norway]
+      *** Norway ***
+      Norwegian Krone
+      English
+    * [Sweden]
+      *** Sweden ***
+      Swedish Krona
+      English
+    * [Denmark]
+      *** Denmark ***
+      Danish Krone
+      English
+    * [Rest of Europe]
+      *** Rest of Europe ***
+      Euro
+      English
+**** ASIA PACIFIC ****
+    * [Australia & New Zealand]
+      *** Australia & New Zealand ***
+      AUS Dollars
+      English
+    * [Japan]
+      *** Japan ***
+      Japanese Yen
+      Japanese English
+    * [Taiwan]
+      *** Taiwan ***
+      Taiwanese Dollar
+      Traditional_Chinese English
+    * [South Korea]
+      *** South Korea ***
+      South Korean Won
+      Korean English
+    * [Rest of Asia]
+      *** Rest of Asia ***
+      US Dollars
+      English Traditional_Chinese
+We use cookies to improve our site and your shopping experience, and have
+recently_updated_our_cookie_policy. By continuing to browse our site you accept
+this policy. You can delete and block the cookies by changing your browser
+settings.
+Accept_&_close
+

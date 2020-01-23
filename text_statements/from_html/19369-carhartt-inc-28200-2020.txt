@@ -1,0 +1,792 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip_to_Content>>
+
+
+
+
+
+ _0__
+[Unknown INPUT type]
+  Shop    My Account    Contact Us    Loyalty
+ Store_Finder
+   Discover    Country
+    *
+      Just another perk to being part of the hardest-working Loyalty program
+      ever
+      Join_Now
+      Customers must login or join the Groundbreakers Loyalty Program  to take
+      advantage of the offer. Valid on U.S. ground shipping orders.
+
+    *
+
+    * Login
+    * SignUp
+
+SIGN IN
+**** SIGN IN USING YOUR EMAIL ****
+
+
+YOU HAVE SUCCESSFULLY CHANGED YOUR PASSWORD.
+
+Please enter a valid Email Address in the Email field.
+EMAIL [Unknown INPUT type]
+PASSWORD [********************]
+ * REMEMBER ME
+SUBMIT
+FORGOT_YOUR_PASSWORD?
+
+Trouble_Logging_in?
+No account?Sign_Up
+ ×
+****** YOU ARE ABOUT TO VISIT THE EUROPEAN SITE ******
+Leaving the site? You are about to visit the European site which is intended
+for European residents, any changes you made to your cart may not be saved.
+Click continue to visit the European site or cancel to stay on the current
+site.
+Order placed on the European site can only be delivered within Europe.
+ CONTINUE
+ CANCEL
+×
+CREATE AN ACCOUNT
+
+**** Register With Your Email ****
+
+
+We're sorry, there was an issue opting you into Direct Checkout. Please try
+again from the My Profile screen. If the issue persists, please call 800 833-
+3118 to speak with a Customer Service representative.
+First Name
+ [firstName           ]
+Last Name [lastName            ]
+EMAIL [Unknown INPUT type]
+PASSWORD [********************]
+      Password Strength: Why?
+      Your password must be 8-16 characters long. For a stronger password, use
+      a combination of characters including at least one uppercase letter,
+      lowercase letter, number and special character.HIDE
+Re-Enter Password [********************]
+Security Question
+[One of: What is your mother's maiden name?/What is your pet's name?/What is
+your city of birth?]
+In case you forget your password
+Security Answer [challengeAnswer     ]
+⁰
+
+Yes, I want to join the Carhartt Groundbreakers Loyalty Program and receive
+points for my purchases and activities. By joining the Groundbreakers Loyalty
+Program, I affirm that I am 18 years or older and live in the contiguous United
+States or Canada. I also agree to Carhartt emailing me and/or sending me
+messages on my mobile phone about my account, the program, loyalty activities,
+Social Media activities and to the Terms_and_Conditions. Message and data rates
+may apply.
+[Groundbreakers logo]
+
+⁰ Email me the latest news on Carhartt deals and promotions
+⁰  Enable Direct Checkout and accept the terms_and_conditions for this program
+By creating an account, you agree to Carhartt's Privacy_Policy
+Create Account
+Already have an account? SIGN_IN
+×
+**** We're having trouble creating your loyalty account. Please try again later
+or contact customer service at 1800.833.3118 for assistance. ****
+×
+**** Your session has timed out and you have been successfully logged off.
+Click Log in to access the store again. ****
+ Log in
+ Continue as Guest
+
+
+
+    * LOYALTY
+    * United_States
+          o North_America
+                # United_States
+          o Europe
+                # Germany
+                # Netherlands
+                # United_Kingdom
+                # Austria
+                # Belgium
+                # Bulgaria
+                # Croatia
+                # Cyprus
+                # Czech_Republic
+                # Denmark
+                # Estonia
+                # Finland
+                # France
+                # Greece
+                # Hungary
+                # Italy
+                # Luxembourg
+                # Latvia
+                # Lithuania
+                # Malta
+                # Poland
+                # Portugal
+                # Romania
+                # Slovakia
+                # Slovenia
+                # Spain
+                # Sweden
+                # Ireland
+    * Find_a_retailer
+    * LIVE_CHAT
+    *
+    * MY_CART__0
+      Your shopping cart is empty
+
+    * Men
+          o   [Shop All Men]  Shop All Men
+_[Winter_Clearance_Sale]__Winter_Clearance_Sale
+_[Outerwear]__Outerwear
+_[Bibs_&_Coveralls]__Bibs_&_Coveralls
+_[Hoodies_&_Sweatshirts]__Hoodies_&_Sweatshirts
+_[Shirts]__Shirts
+    * _[Pants]__Pants
+    * _[Boots]__Boots
+    * _[Accessories]__Accessories
+    * _[Thermals]__Thermals
+    * _[Underwear]__Underwear
+    * _[Big_&_Tall]__Big_&_Tall
+    * _[Collections]__Collections
+    * _[Shop_By_Industry]__Shop_By_Industry
+Women
+    *   [Shop All Women]  Shop All Women
+_[Winter_Clearance_Sale]__Winter_Clearance_Sale
+_[Outerwear]__Outerwear
+_[Bib_Overalls]__Bib_Overalls
+_[Pants]__Pants
+    * _[Hoodies_&_Sweatshirts]__Hoodies_&_Sweatshirts
+    * _[Tops_&_Shirts]__Tops_&_Shirts
+    * _[Plus_Size]__Plus_Size
+    * _[Thermals]__Thermals
+    * _[Accessories]__Accessories
+    * _[Boots]__Boots
+    * _[Collections]__Collections
+    * _[Shop_By_Industry]__Shop_By_Industry
+Kids
+    *   [Shop All Kids]  Shop All Kids
+_[Winter_Clearance_Sale]__Winter_Clearance_Sale
+_[Baby_Boy_(0-24M)]__Baby_Boy_(0-24M)
+_[Baby_Girl_(0-24M)]__Baby_Girl_(0-24M)
+    * _[Toddler_Boy_(2T-4T)]__Toddler_Boy_(2T-4T)
+    * _[Toddler_Girl_(2T-4T)]__Toddler_Girl_(2T-4T)
+    * _[Boy_(4-16)]__Boy_(4-16)
+    * _[Girl_(4-14)]__Girl_(4-14)
+    * _[Collections]__Collections
+Accessories
+    *   [Shop All Accessories]  Shop All Accessories
+_[Hats]__Hats
+_[Socks]__Socks
+_[Gloves]__Gloves
+_[Bags_&_Coolers]__Bags_&_Coolers
+    * _[Tool_Belts_&_Tool_Bags]__Tool_Belts_&_Tool_Bags
+    * _[Belts_&_Wallets]__Belts_&_Wallets
+    * _[Dog_Gear]__Dog_Gear
+    * _[Safety_Glasses]__Safety_Glasses
+    * _[Aprons]__Aprons
+    * _[Knee_Pads]__Knee_Pads
+    * _[Tech_Gear]__Tech_Gear
+    * _[Stickers]__Stickers
+Flame-Resistant
+    *   [Shop All Flame-Resistant]  Shop All Flame-Resistant
+_[FR_Outerwear]__FR_Outerwear
+_[FR_Bibs_&_Coveralls]__FR_Bibs_&_Coveralls
+_[FR_Shirts]__FR_Shirts
+_[FR_Hoodies_&_Sweatshirts]__FR_Hoodies_&_Sweatshirts
+_[FR_Pants]__FR_Pants
+    * _[FR_Hats_&_Accessories]__FR_Hats_&_Accessories
+    * _[Hi-Visibility_FR]__Hi-Visibility_FR
+    * _[FR_Big_&_Tall]__FR_Big_&_Tall
+    * _[FR_Collections]__FR_Collections
+    *
+New
+Garment_Care
+Safety_Standards
+Flame‒Resistant_FAQs
+Product_Notification
+Winter_Gear
+    *   [Shop All Winter Gear]  Shop All Winter Gear
+_[Winter_Essentials]__Winter_Essentials
+_[Insulated_Gear]__Insulated_Gear
+_[Yukon_Extremes_Collection]__Yukon_Extremes_Collection
+_[Iconic_Carhartt]__Iconic_Carhartt
+    * _[Thermals_&_Underwear]__Thermals_&_Underwear
+    * _[Winter_Hats_&_Accessories]__Winter_Hats_&_Accessories
+    * _[Rain_Gear]__Rain_Gear
+    * _[Hoodies_&_Sweatshirts]__Hoodies_&_Sweatshirts
+    * _[T-Shirts]__T-Shirts
+    * _[Work_Shirts]__Work_Shirts
+    * _[Work_Pants_&_Jeans]__Work_Pants_&_Jeans
+    * _[Rugged_Flex_Gear]__Rugged_Flex_Gear
+New
+    *   [Shop All New]  Shop All New
+_[Men]__Men
+_[Women]__Women
+_[Kids]__Kids
+    * _[Footwear]__Footwear
+    * _[Flame_Resistant]__Flame_Resistant
+    * _[Hats_&_Accessories]__Hats_&_Accessories
+    * _[Big_&_Tall_Gear]__Big_&_Tall_Gear
+    * _[Rugged_Professional_Series]__Rugged_Professional_Series
+Clearance
+    *   [Shop All Clearance]  Shop All Clearance
+_[Men]__Men
+_[Women]__Women
+_[Kids]__Kids
+    * _[Outerwear]__Outerwear
+    * _[Accessories]__Accessories
+    * _[Flame_Resistant]__Flame_Resistant
+    * _[Plaid_Shirts]__Plaid_Shirts
+    * _[40%_Off]__40%_Off
+    * _[50%_Off]__50%_Off
+
+ Brands
+
+Founded in 1889
+The original workwear company built to serve and protect hardworking people 24/
+7
+Europe
+United States
+Asia Pacific
+Learn_More
+Founded in 1989
+Iconic Carhartt gear reinterpreted for those seeking refined design and style.
+Europe
+
+United States
+
+Asia Pacific
+Learn_More
+
+ Discover
+
+[history] [technology] [stories] [product] [community]
+ [Unknown INPUT type]
+LOYALTY
+    * Login
+    * SignUp
+
+PHONE:
+Monday - Friday
+8:00 a.m. - 9:00 p.m. EST
+Saturday - Sunday
+Closed
+LIVE CHAT:
+Monday - Friday
+9:00 a.m. - Midnight EST
+Saturday - Sunday
+9:00 a.m. - 9:00 p.m. EST
+CORPORATE ADDRESS:
+Carhartt, Inc.
+5750 Mercury Drive
+Dearborn, MI 48126
+
+    * Join/Log_in_Account
+    * Learn_About_Groundbreakers
+    * Member_Exclusives
+    * Discover_Carhartt
+
+
+    * Brands
+    * History
+    * Technology
+    * Stories
+    * Product
+    * Community
+
+    * North_America
+          o United_States
+    * Europe
+          o Germany
+          o Netherlands
+          o United_Kingdom
+          o Austria
+          o Belgium
+          o Bulgaria
+          o Croatia
+          o Cyprus
+          o Czech_Republic
+          o Denmark
+          o Estonia
+          o Finland
+          o France
+          o Greece
+          o Hungary
+          o Italy
+          o Luxembourg
+          o Latvia
+          o Lithuania
+          o Malta
+          o Poland
+          o Portugal
+          o Romania
+          o Slovakia
+          o Slovenia
+          o Spain
+          o Sweden
+          o Ireland
+
+Carhartt Corporate Responsibility
+      Corporate_Responsibility
+      California_Disclosure
+      Workplace_Code_of_Conduct
+      Community_Affairs
+      Restricted_Substances
+      Our_Commitment_to_Accessibility
+      Counterfeit_Product
+      Corporate_Responsibility
+      California_Disclosure
+      Workplace_Code_of_Conduct
+      Community_Affairs
+      Restricted_Substances
+      Our_Commitment_to_Accessibility
+      Counterfeit_Product
+When our company was founded in 1889, Hamilton Carhartt talked about the role
+of a responsible business in doing, "the just and honest thing, gainful if
+possible". These core principles have underpinned Carhartt's approach to
+business for more than 125 years and are as relevant today as they were in
+1889.
+Building on our roots as an American company, Carhartt products are today
+manufactured and sold globally. Production is centered in company-owned
+factories in the U.S. and Mexico, and in a network of supplier and licensee
+factories around the world.
+We are keenly aware of the environmental and human rights challenges presented
+by global sourcing and we have taken a number of important steps to help ensure
+that our principles are upheld throughout the global network of factories
+supporting our business. Key steps include:
+* Adopting a Workplace Code of Conduct that establishes expectations for all of
+our supplier and licensee relationships. This Code provides key base line
+expectations for environmental protection, responsible working conditions, and
+fundamental human rights. It is based on the Core Conventions of the
+International Labor Organization and the UN's Universal Declaration of Human
+Rights.
+* In addition to these third-party assessments, Carhartt sourcing and quality
+assurance personnel visit and work in supplier facilities on an ongoing basis.
+These individuals have been trained on responsible workplace conditions and
+Carhartt's expectations for suppliers. The regular presence of Carhartt
+personnel at supplier facilities allows us to closely monitor day-to-day work
+conditions supplementing periodic audits by WRAP or other third-parties.
+For more information please contact:
+Media Inquiries:
+Other Inquiries:
+In September of 2010, the state of California enacted legislation requiring all
+companies doing business in the state to disclose information on the actions
+being taken to address the risks of human trafficking and slavery in their
+global supply chains. Shown below are Carhartt's responses to the five required
+disclosures outlined in the legislation:
+   1. Verification -- All factories producing goods for Carhartt are required
+      to comply with the Company's Workplace Code of Conduct, which includes a
+      specific "prohibition of involuntary, prison, or forced labor -
+      indentured, bonded or otherwise" and a methodology to verify compliance
+      with labor standards. All suppliers also are expected to meet the
+      standards of the US Customs-Trade Partnership Against Terrorism (C-TPAT),
+      including recommended safeguards protecting against the introduction of
+      non-manifested cargo. These expectations extend to all sub-contractors.
+      Verification takes place through third-party assessment of responsible
+      labor conditions, using the Worldwide Responsible Accredited Production
+      (WRAP) protocol, or a similar third-party factory certification approach.
+   2.
+   3. Audit -Responsible labor practices are confirmed through third-party
+      factory assessments, using the Worldwide Responsible Accredited
+      Production (WRAP) social audit protocol, or a similar third-party factory
+      certification approach. Supplier audits are conducted by reputable third-
+      party assessment firms and are unannounced within a 30-day window. These
+      audits evaluate present factory conditions as well as the policies,
+      procedures and management systems which are necessary for ongoing
+      compliance.
+   4.
+   5. Certification-- Carhartt's Workplace Code of Conduct requires all of our
+      suppliers to comply fully with all local laws, including those related to
+      slavery and human trafficking. In the event local laws are not robust,
+      Carhartt's Workplace Code of Conduct further prohibits suppliers from
+      using "involuntary, prison, or forced labor - indentured, bonded or
+      otherwise." Suppliers certify that they understand and comply with these
+      expectations before starting Carhartt production and periodically
+      thereafter.
+   6.
+   7. Internal Accountability-- Responsible labor conditions have been a core
+      value at Carhartt for more than 125 years. Internal accountability
+      resides with the leadership of the core business functions responsible
+      for the relevant commercial relationships - e.g., the Sourcing function
+      for all relationships with cut and sew suppliers and the Licensing
+      Department for all license agreements. All Carhartt contractors and
+      licensees must adhere to our Code and maintain appropriate third-party
+      certifications.
+      If an audit demonstrates that a contractor does not comply with
+      Carhartt's Code of Conduct, we take appropriate remedial action. While we
+      prefer to work with contractors to achieve improved conditions,
+      violations involving human trafficking or slavery would be considered
+      "zero tolerance" issues that must be immediately corrected or Carhartt
+      would act to terminate the contractual relationship.
+   8.
+   9. Training-- With support from WRAP, Carhartt has conducted training on the
+      Company's Workplace Code of Conduct - including provisions related to
+      human trafficking and slavery. Individuals completing this training
+      include supply chain leadership from the Vice President through the
+      manager level in our Sourcing and Quality Assurance activities. Select
+      individuals in our Customs activity also have completed the training. We
+      are presently in the process of extending the training to others within
+      our organization.
+Carhartt, Inc.
+(Revised October 3, 2018)
+As a premium brand, Carhartt is committed to conducting business in a fair and
+ethical manner. Carharttâs Social Compliance Departmentâs Mission is To
+serve and protect the hardworking people who make our products. Consistent with
+this Mission, Carhartt has established this Code of Conduct as a minimum set of
+standards for Carhartt suppliers. Carharttâs Code is based on internationally
+accepted labor standards, including the International Labor Organizationâs
+Core Conventions and the Universal Declaration of Human Rights. While this Code
+establishes minimum standards, Carhartt aspires to partner with companies that
+share Carharttâs corporate values and are committed to continuous process
+improvements as it relates to social and environmental practices. Any questions
+or concerns, or any alleged violations, should be emailed to
+factorycompliance@carhartt.com.
+Scope
+As used herein, the term supplier
+ is defined broadly to cover the range of Carharttâs supply chain partners,
+including cut and sew suppliers providing finished garments, direct and
+nominated suppliers of fabrics, trims and other raw materials, licensed
+partnersâ facilities, transportation and logistics providers and other supply
+chain partners. The term supplier also applies to the authorized subcontractors
+used by Carhartt direct suppliers, including, but not limited to, laundry,
+screen print, printing, embroidery or other embellishments or processes.
+Suppliers with which Carhartt has a direct contractual relationship are
+expected to extend these standards to all of their suppliers and to initiate
+practices to assure that these standards are adopted throughout the global
+supply network supporting Carhartt.
+The consequences of non-compliance by suppliers with the standards outlined in
+Carharttâs Code of Conduct may include, but are not limited to, cancellation
+of existing orders or loss of all future business with Carhartt. Carharttâs
+process for approving and ensuring compliance to the Code of Conduct is
+outlined in Appendix A.
+Code_of_Conduct
+1._Employment_Relationship â Carhartt suppliers will adopt and adhere to the
+rules and conditions of employment that respect workers and, at a minimum,
+safeguard their rights under national and international labor and social
+security laws and regulations.
+2._Compliance_with_Laws_and_Workplace_Regulations â Carhartt suppliers will
+comply with laws and regulations in all locations where they conduct business
+including those relating to labor, social insurances/security, worker health
+and safety, and the environment. It is further expected that suppliers will
+cooperate fully with Carhartt in its compliance with laws applicable to
+Carhartt in countries where Carhartt does business. Where local law or
+standards differ or conflict, the highest standard shall apply.
+3._Prohibition_of_Forced_Labor â Carhartt suppliers will not hire any
+employees under the age of 15, or under the age interfering with compulsory
+schooling, or under the minimum age established by law, whichever is greater.
+Supplier must maintain official and verifiable age documentation for each
+worker.
+4._Prohibition_of_Child_Labor â Carhartt suppliers will not hire any
+employees under the age of 15, or under the age interfering with compulsory
+schooling, or under the minimum age established by law, whichever is greater.
+Supplier must maintain official and verifiable age documentation for each
+worker.
+5._Prohibition_of_Harassment_or_Abuse â Carhartt suppliers will endeavor to
+establish workplaces where every employee is treated with respect and dignity.
+No employee shall be subjected to any physical, sexual, psychological or verbal
+harassment, abuse, corporal punishment, or monetary fines.
+6._Prohibition_of_Discrimination â Carhartt suppliers will employ, pay,
+promote, and terminate workers on the basis of their ability to do the job,
+rather than on the basis of personal characteristics or beliefs. No person
+shall be subject to any discrimination in employment, including hiring,
+compensation, advancement, discipline, termination or retirement, on the basis
+of gender, race, religion, age, disability, sexual orientation, nationality,
+political opinion, social group or ethnic origin.
+7._Freedom_of_Association_&_Collective_Bargaining â Carhartt suppliers shall
+recognize and respect the right of employees to freedom of association and
+collective bargaining.
+8._Compensation_and_Benefits â Carhartt suppliers will pay at least the
+minimum total compensation required by local law, including all mandated wages,
+allowances, and benefits, as well as required pay for overtime and holiday
+work. Supplier must maintain adequate and verifiable payroll documentation and
+each employee must be provided with a clear, written accounting for each pay
+period.
+9._Hours_of_Work â Carhartt suppliers will conform to hours worked each day,
+and days worked each week, that do not exceed the legal limitations of the
+countries in which they operate. At a minimum, Suppliers will provide at least
+one day (24 hours) off in every seven-day period, except as required to meet
+urgent business needs. Suppliers are encouraged to control total weekly hours
+to 60 or less for all employees. All overtime hours must be worked voluntarily.
+10._Health_and_Safety â Carhartt suppliers must ensure that their employees
+are provided with a safe and healthy work environment, including any housing
+and cafeteria requirements, and are not subject to hazardous or unsanitary
+conditions.
+11._Multi-Tenant â Carhartt production is prohibited in factories with more
+than one tenant unless Carharttâs Multi-Tenant Policy is fully complied with
+(Appendix B)
+12._Sandblasting â Unique challenges exist with working conditions and with
+worker health and safety in the denim finishing process in laundries and
+facilities. In view of health concerns related to the use of sandblasting in
+garment processing, sandblasting processes are not permitted at any facilities
+that produce Carhartt products.
+13._Environmental â Carhartt suppliers will comply with environmental rules,
+regulations and standards applicable to their operations, and will adopt
+responsible measures to mitigate negative impacts that the workplace has on the
+environment. This includes hazardous waste disposal, waste management
+practices, air emissions, water treatment and other significant environmental
+risks.
+14._Procurement_Ethics â Carharttâs business relationship with its
+suppliers is based solely on the supplierâs merits in the way of prices,
+excellent quality, prompt delivery and efficient services. Therefore, no
+payments, gifts, rewards or gratuities of any kind shall be made directly or
+indirectly to Carhartt employees or Carharttâs buying agent or staff members
+in consideration of the business being placed with supplier.
+15._Bribery_and_Corruption â Carhartt suppliers will not, in connection with
+any aspect of their business with Carhartt, directly or indirectly give or
+offer any bribe, kickback or other improper payment or benefit to influence
+another individual, company, organization, government official or body, or
+political party or candidate, regardless of whether it is officially tolerated
+or condoned.
+16._Transparency â Honesty and transparency is critical for a relationship
+with Carhartt. Supplier is required to provide accurate and truthful answers to
+any questions or documents requested by Carhartt. The use of falsified records,
+double books or similar documents, or coached/instructed employee interviews
+can and will result in the disqualification of the Supplier from future
+business with Carhartt.
+17._Subcontracting â Carhartt will not tolerate the unauthorized
+subcontracting of any or all production operations associated with the
+manufacture of Carhartt products. Carhartt suppliers must disclose any
+subcontracted processes prior to production and receive written approval from
+Carhartt for the use of subcontracted services; including, but not limited to,
+laundry, screen print, embroidery or other embellishments or processes.
+Carhartt also specifically prohibits the practice of âHome Workâ as a means
+of producing its product. Subcontractors will be required to meet the same
+Carhartt Workplace Code of Conduct as primary Carhartt suppliers. Approval is
+specific to individual subcontractor locations. Any unauthorized subcontracting
+may result in the immediate cancellation of all open orders or other business
+relationships between Supplier and Carhartt.
+18._Migrant_Labor â Any supplier using Migrant Labor is required to adopt the
+Carhartt Policy on Migrant Labor (Appendix C), or draft their own policy that
+includes the Carhartt policy requirements as a minimum, no later than March 31,
+2019. Any violations found related to migrant workers hired after March 31,
+2019 will require the supplier to reimburse all inappropriate fees charged to
+the migrant worker. The policy includes the following critical requirements, in
+addition to other guidance.
+●   All employment contracts and other work related information must be
+truthful, clearly written and provided in the workerâs native language
+●   Workers must be provided with contracts and wages that equal or exceed
+those of local workers per the policy, and must be treated equally in the
+workplace.
+●   Workers should not pay any recruitment fees or other related employment
+fees from country of employment or home country â including transportation to
+and from the host country per the policy.
+●   Workers shall retain possession and control of their personal identity
+documents, such as passports, identity papers, travel documents, and other
+personal legal documents at all times
+19._Animal_Welfare â Carhartt believes that every animal deserves to be free
+from hunger and thirst, discomfort, pain, injury or disease, fear and distress.
+The belief is that this should last for an animal's entire lifetime, including
+birth, growth/rearing/breeding, feed/water/shelter, transport and slaughter. No
+animal used for the production of Carhartt products should be intentionally
+harmed or exposed to pain. Taking the lives of animals should be conducted
+using the quickest and the least painful and non-traumatic methods available.
+Carhartt may request specific information on the Supplierâs supply chain
+related to the conditions imposed on animals used for certain materials (e.g.
+down, leather, wool).
+20._Source_of_Cotton_Fiber â Due to Uzbekistan and Turkmenistanâs ongoing
+use of forced labor and child labor in growing and harvesting cotton, Carhartt
+has joined with many other brands in pledging to not knowingly use Uzbek and/or
+Turkmen sourced cotton in products. Suppliers are required to ensure that Uzbek
+and/or Turkmen cotton is excluded from the supply chain. Carhartt will
+periodically request suppliers to attest that cotton fiber is not Uzbek and/or
+Turkmen sourced (Appendix D). In some cases, suppliers may not know where
+cotton is grown and, in those cases, suppliers will be asked to provide
+information on their sources for fabrics, yarns and threads.
+21._Customs_Compliance â Carhartt suppliers will comply with applicable
+customs law and, in particular, will establish and maintain programs to comply
+with customs laws regarding illegal transshipment of apparel products.
+22._Security â Carhartt suppliers will maintain facility security procedures
+to guard against the introduction of non-manifested cargo into outbound
+shipments (e.g. drugs, explosives, biohazards, and/or other contraband).
+Suppliers are further expected to cooperate with Carhartt in meeting C-TPAT and
+other supply chain security requirements established by U.S. Customs and Border
+Protection or other governmental security requirements.
+23._Right_to_Audit â Carhartt reserves the right to visit the production or
+other facilities where Carhartt product is produced or handled at any time.
+These visits may be conducted by Carhartt employees or by third-party auditors
+retained by Carhartt. Visits may be announced, semi-announced or unannounced.
+Any denied access to a facility will be considered a Zero Tolerance violation.
+24._Visibility_of_Carhartt_Code_of_Conduct â A copy of Carharttâs Workplace
+Code of Conduct (first 4 pages) must be posted in strategic locations at the
+supplierâs place of business (i.e. lobby, near time clocks, bulletin board,
+etc.) so that each member of the supplierâs organization has access to the
+policy. The policy should be translated into the native languages of all
+workers and be located so that employees can read and understand Carharttâs
+policy. Supplier is to provide Carhartt with a copy of any translation.
+                                   *********
+As noted in this Code of Conduct, Carhartt aspires to partner with companies
+that share its corporate values and are committed to continuous improvement of
+social and environmental practices. It is our intent that the standards
+outlined in this Workplace Code of Conduct be applied throughout the global
+network of vendors involved in the development, manufacture and transport of
+Carhartt products. Vendors with which Carhartt has a direct contractual
+relationship are expected to extend these standards to all sub-tier suppliers
+and to initiate practices to assure that aligned standards are adopted
+throughout the global supply network supporting Carhartt.
+At Carhartt, we pride ourselves on working with like-minded organizations that
+align with our brand and business. Carhartt supports 501(c)(3) nonprofit
+organizations whose mission statements align with our own by providing in-kind
+product donations to assist with charitable efforts. We do not accept
+unsolicited requests for financial contributions.
+
+We prefer to donate apparel to organizations that focus on supporting disaster
+relief and workforce development. True to our work wear roots, our community
+affairs program exists to assist those in need by providing product that will
+allow them return to work with durable apparel to protect them from the
+elements. Click_here to learn more about our community affairs program.
+
+Special consideration is given to organizations in Michigan, Kentucky and
+Tennessee, where we have long-established facilities and deep ties to the
+community.
+
+All requests must be submitted to Carhartt through our online_donation_request
+system. We no longer accept requests via other methods.
+
+Thank you for your interest in partnering with Carhartt.
+
+Submit_a_Request
+Carhartt has always been dedicated to the protection of our consumers. As we
+continue to expand into the global market, it is more important than ever.
+Carhartt works hard to ensure that our garments are designed and manufactured
+responsibly, and that any chemicals used are safe for our consumers as well as
+all workers in our supply chain factories.
+
+Years ago, Carhartt adopted the Restricted Substance List as a product
+specification. This list is maintained by the American Apparel and Footwear
+Association and is accessible as a public document. The list represents current
+global standards for the industry and is updated twice annually to ensure
+conformance with global consumer protection standards. By focusing first and
+foremost on protecting Carhartt consumers, we are in turn protecting the
+Carhartt brand.
+
+Any inquiries regarding general conformity certifications under the Consumer
+Product Safety Improvement Act of 2008 should be directed to Carharttâs
+website.
+
+Request_A_Certificate_of_Compliance
+
+Accessibility Statement
+Carhartt.com is committed to making its website usable by all people by meeting
+or exceeding the requirements of the Web Content Accessibility Guidelines 2.0
+Level AA (WCAG 2.0 AA). We have engaged The_Bureau_of_Internet_Accessibility_
+(BoIA.org), an accessibility consulting company, to conduct an accessibility
+audit of our websites and provide us with specific recommendations that will
+assist us in ensuring that our Web presence is in conformance with the WCAG 2.0
+AA. Please be aware that our efforts are ongoing as our current website
+provider implements the relevant improvements to meet WCAG 2.0 AA guidelines
+over time. If you have specific questions or concerns about the accessibility
+of this site or need assistance in using the processes found within this site,
+please contact us at 1.800.833.3118 and/or body=Body
+text>Just_ask_us@carhartt.com
+. If you do encounter an accessibility issue, please be sure to specify the Web
+page and we will make all reasonable efforts to make that page accessible.
+
+COUNTERFEIT PRODUCT
+It is our mission to build rugged products to serve and protect hardworking
+people.
+Every piece of gear Carhartt produces comes with a fundamental promise of
+reliability to our consumers â backed by our outstanding quality,
+craftsmanship, durability, and value.
+We closely monitor any misuse of our intellectual property and work hard to
+eliminate counterfeits and fraudulent websites.
+If you think youâve purchased fake Carhartt product, we want to help.
+Please reach out to us at body=Body text>brandprotection@carhartt.com
+ or call our Customer Service Team at 1-800-833-3118.
+FAQs
+How can I make sure Iâm purchasing authentic Carhartt product?
+To ensure you are purchasing genuine Carhartt products, use our Retail Locator
+to find authorized Carhartt retailers or shop at Carhartt.com.
+How else can I protect myself from buying counterfeit products?
+    * • Be wary of auction and marketplace sites
+    * • Be aware that some counterfeiters create "look-a-like" sites by
+      including the word "Carhartt" or a variation of the word in the domain
+      name
+    * • Be suspicious of deals on Social Media that link to questionable sites
+    * • Look for contact information or email addresses that do not appear to
+      be legitimate
+    *
+How can I report a website or product listing that seem suspicious?
+Email the website or product listing url to body=Body
+text>brandprotection@carhartt.com
+ [Carhartt]
+Sign up for Exclusive News & Offers
+      [Unknown INPUT type]
+Submit
+      ABOUT_US
+      ABOUT US
+          * About_Carhartt
+          * Shipping_&_Return_Policy
+          * Offers_and_Deals
+          * Groundbreakers_Loyalty_Program
+          * Career_Opportunities
+          * Carhartt_Newsroom
+          * Privacy_Policy
+          * Accessibility_Statement
+          * Corporate_Responsibility
+          * Site_Map
+          * Affiliate_Program
+          * Aviso_De_Privacidad_-_Mexico
+          * Discover_Carhartt
+      Customer_Service
+      Customer Service
+          * Contact_Us
+          * Call_Us:_1800.833.3118
+          * Carhartt_Company_Gear
+          * Cart_Talk
+          * Gift_Cards
+          * Check_Your_Gift_Balance
+          * Find_a_Retailer
+          * Find_a_Carhartt_Company_Store
+          * Loyalty_FAQs
+          * Loyalty_Terms_and_Conditions
+          * Military_Discount_Program
+          * Product_Care
+          * Our_Commitment
+          * Product_Notifications
+          * Catalog_Request
+          * FAQs
+          * Outerwear_Finder
+          * Ideas_That_Work
+          * Carhartt_Privacy_Request
+          * Live_Chat
+      Carhartt_Global_Sites
+      Carhartt Global Sites
+          * Europe
+          * Work_In_Progress
+          * Uniform_Rental
+Sign up for Exclusive News & Offers
+      [Unknown INPUT type]
+Submit
+
+Find Us On
+
+Follow Us Online
+    Copyright © 2020 Carhartt, Inc. All Rights Reserved.
+
+
+Chat with an Expert
+X
+

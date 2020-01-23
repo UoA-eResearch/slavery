@@ -1,0 +1,420 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[search_algolia[keyword]]
+
+Filter_by
+By date
+#From most recent to oldest
+oFrom oldest to most recent
+By section
+⁰Finance
+⁰Group
+⁰Houses
+⁰Press
+⁰Sustainability
+⁰Talent
+__
+SHARE PRICE 599,00 €
+____
+____
+
+en
+    * ____
+    * ____
+    * ____
+    * ____
+    * ____
+    * ____
+    * ____
+    * ENGLISH
+    * FRANÇAIS
+    * ITALIANO
+    * 简体中文
+    * 日本語
+SHARE PRICE 599,00 €
+en
+    * ENGLISH
+    * FRANÇAIS
+    * ITALIANO
+    * 简体中文
+    * 日本語
+SHARE PRICE 599,00 €
+    * ____
+    * ____
+    * ____
+    * ____
+    * ____
+    * ____
+    * ____
+    * EN
+    * FR
+    * IT
+    * CN
+    * JP
+    *  Group
+      Close
+       Back
+       Group_homepage
+       Discover_Kering
+          o Empowering_imagination
+          o Our_strategy
+          o Activity_report
+          o Kering_at_a_glance
+       Culture_and_Heritage
+          o Group_history
+          o 40,_rue_de_Sèvres
+          o 2019_European_Heritage_Days
+       Our_governance
+          o Board_of_Directors
+          o Executive_Committee
+          o François-Henri_Pinault
+          o Ethics_and_business_conduct
+       Kering_for_Women
+          o Empowering_Women
+          o The_Kering_Foundation
+          o Women_In_Motion
+       News
+       Contact_us
+    *  Houses
+      Close
+       Back
+       Houses_homepage
+       Couture_and_Leather_Goods
+          o Gucci
+          o Saint_Laurent
+          o Bottega_Veneta
+          o Balenciaga
+          o Alexander_McQueen
+          o Brioni
+       Watches_and_Jewelry
+          o Boucheron
+          o Pomellato
+          o DoDo
+          o Qeelin
+          o Ulysse_Nardin
+          o Girard-Perregaux
+       Kering_Eyewear
+    *  Talent
+      Close
+       Back
+       Talent_homepage
+       Who_we_are
+          o The_Kering_Group
+          o Our_Houses
+          o Our_approach_to_Luxury
+       Empowering_talent
+          o Working_at_Kering
+          o Managing_dynamic_careers
+          o Getting_the_balance_right
+          o A_place_for_every_talent
+          o Empowering_young_talent
+      [Menu_image]_Jobs_for_you
+      [talent_job_offers]_Life_at_Kering
+       News
+    *  Sustainability
+      Close
+       Back
+       Sustainability_homepage
+      [image_sous-menu_notre_approche_DD]_Our_approach
+          o Historic_commitment
+          o Governance
+      [image_sous-menu_stratégie_2025_DD]_Our_strategy
+          o Care
+          o Collaborate
+          o Create
+      [image_sous-menu_EP&L_DD]_Environmental_Profit_&_Loss
+          o What_is_an_EP&L_?
+          o Why_develop_an_EP&L?
+          o Methodology
+          o Results
+          o My_EP&L_App
+      [image_sous-menu_actualités_DD]_News
+          o Agenda
+      [image_sous-menu_ressources_DD]_Resources
+      [image_sous-menu_reporting_et_ranking]_Reporting_and_ranking
+          o Reporting_and_indicators
+          o Ranking
+       The_Kering_Foundation
+    *  Finance
+      Close
+       Back
+       Finance_homepage
+       About_Kering_&_key_figures
+          o Corporate_governance
+          o Breakdown_of_share_capital
+       Kering_share
+       Publications
+       Regulated_information
+       Shareholders_information
+          o Being_a_shareholder
+          o Your_publications
+          o Annual_General_Meeting
+       Debt_financing_and_other_information
+       Financial_calendar
+       Shareholders'_contacts
+    *  Press
+      Close
+       Back
+       Press_homepage
+       News
+      [dossiers_thématiques_presse]_Special_Reports
+      [Kering_Kids]_Resources
+          o Photo_library
+          o Logo_library
+          o Video_library
+      [contact_kering_presse]_Contacts
+    * [Nav_category]_Join_us
+    *  Sustainability
+      Close
+       Back
+       Sustainability_homepage
+      [image_sous-menu_notre_approche_DD]_Our_approach
+          o Historic_commitment
+          o Governance
+      [image_sous-menu_stratégie_2025_DD]_Our_strategy
+          o Care
+          o Collaborate
+          o Create
+      [image_sous-menu_EP&L_DD]_Environmental_Profit_&_Loss
+          o What_is_an_EP&L_?
+          o Why_develop_an_EP&L?
+          o Methodology
+          o Results
+          o My_EP&L_App
+      [image_sous-menu_actualités_DD]_News
+          o Agenda
+      [image_sous-menu_ressources_DD]_Resources
+      [image_sous-menu_reporting_et_ranking]_Reporting_and_ranking
+          o Reporting_and_indicators
+          o Ranking
+       The_Kering_Foundation
+    *  Finance
+      Close
+       Back
+       Finance_homepage
+       About_Kering_&_key_figures
+          o Corporate_governance
+          o Breakdown_of_share_capital
+       Kering_share
+       Publications
+       Regulated_information
+       Shareholders_information
+          o Being_a_shareholder
+          o Your_publications
+          o Annual_General_Meeting
+       Debt_financing_and_other_information
+       Financial_calendar
+       Shareholders'_contacts
+    *  Press
+      Close
+       Back
+       Press_homepage
+       News
+      [dossiers_thématiques_presse]_Special_Reports
+      [Kering_Kids]_Resources
+          o Photo_library
+          o Logo_library
+          o Video_library
+      [contact_kering_presse]_Contacts
+Join_us
+
+
+    * ____
+    * ____
+    * ____
+    * ____
+    * ____
+    * ____
+    * ____
+****** Kering ******
+
+***** Kering *****
+Discover
+
+***** Gucci *****
+Discover
+
+***** Saint Laurent *****
+Discover
+
+***** Bottega Veneta *****
+Discover
+
+***** Balenciaga *****
+Discover
+
+***** Alexander McQueen *****
+Discover
+
+***** Brioni *****
+Discover
+
+***** Boucheron *****
+Discover
+
+***** Pomellato *****
+Discover
+
+***** DoDo *****
+Discover
+
+***** Qeelin *****
+Discover
+
+***** Ulysse Nardin *****
+Discover
+
+***** Girard Perregaux *****
+Discover
+
+***** Kering Eyewear *****
+Discover
+[Logo_Kering]
+
+[Logo_Gucci]
+
+[Logo_Saint-Laurent]
+
+[Logo_Bottega_Veneta]
+
+[Logo_Balenciaga]
+
+[Logo_Alexander_McQueen]
+
+[Logo_Brioni]
+
+[Logo_Boucheron]
+
+[Logo_Pomellato]
+
+[Logo_Dodo]
+
+[Logo_Qeelin]
+
+[Logo_Ulysse_Nardin]
+
+[Logo_Girard_Perregaux]
+
+[logo_Kering_Eyewear]
+[models balenciaga fall 2019]
+Houses
+****_Balenciaga_****
+[Background]
+Houses
+[Susan Meiselas photographer]
+Group
+****_Women_In_Motion_****
+[Carbon neutrality Kering]
+Sustainability
+****_Kering_commits_to_full_carbon_neutrality_across_the_group_****
+[Finance Kering]
+Finance
+[Talent Kering]
+Talent
+[Background]
+Sustainability
+[Kering Foundation fights violence against women]
+Group
+****_Kering_Foundation_****
+[DoDo jewelry with candy box]
+Houses
+****_DoDo_****
+[Boucheron cape jewelry]
+Talent
+****_Our_Job_Offers_****
+[models balenciaga fall 2019]
+Houses
+****_Balenciaga_****
+[Finance Kering]
+Finance
+[Carbon neutrality Kering]
+Sustainability
+****_Kering_commits_to_full_carbon_neutrality_across_the_group_****
+[Boucheron cape jewelry]
+Talent
+****_Our_Job_Offers_****
+[Talent Kering]
+Talent
+[Background]
+Houses
+[Kering Foundation fights violence against women]
+Group
+****_Kering_Foundation_****
+[DoDo jewelry with candy box]
+Houses
+****_DoDo_****
+[Susan Meiselas photographer]
+Group
+****_Women_In_Motion_****
+[Background]
+Sustainability
+[job offers kering]
+*** Talent ***
+[search_career[jobTitle]] OK
+[Empowering Imagination]
+*** Group ***
+***** Empowering_Imagination *****
+At_Kering,_Empowering_Imagination_is_much_more_than_a_signature._It_is_our
+promise,_our_commitment_and_our_mindset.
+Discover
+[Finance background]
+*** Finance ***
+Key_Figures_Group’s_key_financial_data. Kering_Share_All_information_about_the
+Kering_share_(characteristics,_real-time_quotes,_dividend_history).
+599,00€ SHARE PRICE
+_Video_embedded_code_copied_into_clipboard
+[homepage-cover-video-kids-laennec]
+*** Sustainability ***
+____
+    * ____
+    * ____
+    * ____
+    * ____
+    * ____
+    * ____
+    * ____
+      close
+    * ____
+    * Sitemap
+    * Contact_us
+    * Legal
+    * Credits
+    * Cookie_management
+© Kering 2020. ALL RIGHTS RESERVED

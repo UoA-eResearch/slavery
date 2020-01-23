@@ -1,0 +1,404 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_T_M_LEWIN_Jermyn_ST._London
+ 0
+My_bag
+ Search Catalog [q                   ]
+Search
+shop [close]
+    * ⁰   Shirts
+          o All_Men's_Shirts
+          o New_Men's_Shirts
+          o Formal_Shirts
+          o Business_Casual_Shirts
+          o Casual_Shirts
+          o Evening_Shirts
+          o Easy_to_Iron_Shirts
+          o Non-Iron_Shirts
+          o White_Shirts
+          o Blue_Shirts
+          o Pink_Shirts
+          o Slim_Fit_Shirts
+          o Fitted_Shirts
+          o Super_Fitted_Shirts
+          o Regular_Fit_Shirts
+          o Liberty_Fabric_Shirts
+          o Party_Collection
+      SHIRTS
+          o All_Men's_Shirts
+          o New_Shirts
+          o Sale_Shirts
+          o Formal_Shirts
+          o Business_Casual_Shirts
+          o Casual_Shirts
+          o Evening_Shirts
+          o Easy_To_Iron_Shirts
+          o Non-Iron_Shirts
+          o The_Shirt_Fit_Guide
+      SHOP BY COLOUR
+          o White_Shirts
+          o Blue_Shirts
+          o Pink_Shirts
+      SHOP BY FIT
+          o Slim_Fit_Shirts
+          o Fitted_Shirts
+          o Super_Fitted_Shirts
+          o Regular_Fit_Shirts
+      SHOP BY COLLECTION
+          o Online_Exclusives
+          o Made_With_Liberty_Fabrics
+          o Twill_Shirts
+          o Printed_Shirts
+          o Check_Shirts
+          o Textured_Shirts
+          o Italian_Albini_Shirts
+          o Stretch_Shirts
+          o Party_Shirts
+      SALE
+      Extra_10%_Off
+      with_Code_JAN10
+    * ⁰   Suits
+          o All_Men's_Suits
+          o New_Suits
+          o 2_Piece_Suits
+                # Regular_Fit_Suits
+                # Slim_Fit_Suits
+                # Skinny_Fit_Suits
+          o 3_Piece_Suits
+          o Dinner_Suits
+          o Navy_Suits
+          o Grey_and_Charcoal_Suits
+          o Black_Suits
+          o Blue_Suits
+          o Luxury_Tailoring
+          o Infinity_Suits
+      SUITS
+          o All_Men's_Suits
+          o Sale_Suits
+          o 2_Piece_Suits
+          o 3_Piece_Suits
+          o Dinner_Suits
+      SHOP BY FIT
+          o Slim_Fit_Suits
+          o Skinny_Fit_Suits
+          o Regular_Fit_Suits
+      SUIT SEPARATES
+          o Suit_Jackets
+          o Suit_Trousers
+          o Waistcoats
+      SHOP BY COLOUR
+          o Navy_Suits
+          o Grey_Suits
+          o Black_Suits
+          o Blue_Suits
+      SHOP BY COLLECTION
+          o Luxury_Suit_Collection
+          o Infinity_Suit_Collection
+      EDITORIAL
+          o Back_To_Work
+          o An_Italian_Icon
+          o The_Suit_Fit_Guide
+      Offers
+          o Tailoring_-_Save_up_to_Â£99
+          o Black_Tie_-_Save_up_to_Â£59
+      SALE
+      Extra_10%_Off
+      with_Code_JAN10
+    * ⁰   Casual
+          o New_Casualwear
+          o Men's_Casual_Shirts
+          o Men's_Trousers_&_Chinos
+          o Men's_Knitwear
+                # Crew_Neck_Long_Sleeve_Knitwear
+          o Jackets_&_Blazers
+      CASUAL
+          o New_Casualwear
+          o Sale_Casualwear
+          o Casual_Shirts
+          o Trousers_&_Chinos
+          o Knitwear
+          o Jackets_&_Blazers
+          o Loungewear
+      EDITORIAL
+          o An_Italian_Icon
+      Casual Offers
+          o Chinos_2_from_Â£100
+          o Knitwear_2_from_Â£90
+          o Casual_-_Save_up_to_Â£70
+      SALE
+      Casual_Shirts_FROM_Â£19.95
+      SALE
+      Knitwear_from_Â£24.95
+    * ⁰   Coats
+          o All_Men's_Coats_&_Jackets
+          o Men's_Coats
+                # Trench_Coats_and_Rain_Macs
+                # Wool_Coats
+          o Men's_Jackets_&_Blazers
+      COATS & JACKETS
+          o All_Men's_Coats_&_Jackets
+          o Sale_Coats
+          o Coats
+          o Trench_Coats_&_Macs
+          o Wool_Coats
+          o Overcoats
+          o Jackets_&_Blazers
+      EDITORIAL
+          o The_Winter_Collection
+      Finishing Touches
+          o Scarves,_Hats_&_Gloves
+          o Pocket_Squares
+      SALE
+      Coats_from_Â£99
+    * ⁰   Ties
+          o All_Ties
+          o New_Ties
+          o Wide_Ties
+          o Slim_Ties
+          o Classic_Ties
+          o Knitted_Ties
+          o Silk_Ties
+          o Bow_Ties
+          o Printed_Ties
+          o Barberis_Italian_Wool_Ties
+          o Liberty_Fabric_Ties
+          o Luxury_7_Fold_Ties
+      TIES
+          o All_Men's_Ties
+          o New_Ties
+          o Sale_Ties
+          o Wide_Ties
+          o Slim_Ties
+          o Classic_Ties
+          o Knitted_Ties
+          o Silk_Ties
+          o Bow_Ties
+      SHOP BY COLLECTION
+          o Made_With_Liberty_Fabrics
+          o Printed_Ties
+          o 7_Fold_Ties
+          o Barberis_Woven_In_Italy_Ties
+      Finishing Touches
+          o Pocket_Squares
+          o Tie_Slides
+      SALE
+      Ties_from_Â£15
+    * ⁰   Accessories
+          o Socks_&_Boxers
+          o Pocket_Squares
+          o Cufflinks
+          o Lapel_Pins
+          o Tie_Slides
+          o Belts_&_Braces
+          o Collar_Bones
+          o Hats,_Gloves_&_Scarves
+          o Leather_Accessories
+          o Men's_Wallets
+          o Men's_Shoes
+          o Umbrellas
+          o Evening_Accessories
+      FINISHING TOUCHES
+          o Sale_Accessories
+          o Ties
+          o Pocket_Squares
+          o Cufflinks_&_Knots
+          o Lapel_Pins
+          o Collar_Bones
+          o Tie_Slides
+          o Leather_Accessories
+          o Wallets
+          o Scarves,_Hats_&_Gloves
+      ESSENTIALS
+          o Socks
+          o Boxers
+          o Belts_&_Braces
+          o Loungewear
+          o Umbrellas
+          o Shoes
+      Offers
+          o 3_for_2_Ties_&_Accessories
+      SHOP BY COLLECTION
+          o Made_With_Liberty_Fabrics
+          o Made_in_England_Accessories
+          o Evening_Accessories
+      Gifts
+          o Gift_Ideas
+          o Gift_Sets
+          o Gift_Cards
+      SALE
+      Accessories_from_Â£5
+    * ⁰   Womens
+          o Shirts
+          o Workwear
+          o Women's_Dresses
+          o Women's_Jackets
+          o Women's_Trousers
+          o Women's_Skirts
+          o Womenswear_Suit_Offer
+      SHIRTS
+          o All_Women's_Shirts
+          o Sale_Shirts
+      WORKWEAR
+          o All_Women's_Workwear
+          o Women's_Jackets
+          o Dresses
+          o Women's_Trousers
+          o Skirts
+      EDITORIAL
+          o The_Women's_Shirt_Fit_Guide
+          o The_White_Shirt_Edit
+      Offers
+          o Shirts_2_from_Â£60
+          o Womenswear_Offer_Â£249
+      SALE
+      Women's_Shirts_from_Â£24.95
+    * ⁰  Offers
+      Shirts
+          o Easy_To_Iron_4_from_Â£110
+          o Non-Iron_Shirts_4_from_Â£120
+      Suits
+          o Tailoring_-_Save_up_to_Â£99
+          o Black_Tie_-_Save_up_to_Â£59
+          o Shop_Sale
+      Casual
+          o Casual_-_Save_up_to_Â£70
+          o Chinos_2_from_Â£100
+          o Men's_Knitwear_2_from_Â£90
+      Finishing Touches
+          o 3_for_2_accessories
+      Womenswear
+          o Women's_Shirts_2_from_Â£60
+          o Womenswear_Offer_Â£249
+      Sale_Shirts
+      4_from_Â£70
+      SALE
+      Extra_10%_Off
+      with_Code_JAN10
+    * ⁰  Sale
+      FORMALWEAR
+          o Shirts
+          o Suits
+          o Ties
+          o Suit_Separates
+          o Coats
+          o Accessories
+          o Shop_all_Sale
+      CASUALWEAR
+          o Casual_Shirts
+          o Trousers_and_Chinos
+          o Jackets_&_Blazers
+          o Knitwear
+            WOMENSWEAR
+          o Shirts
+          o Accessories
+          o Shop_all_Womenswear
+      SALE
+      Extra_10%_Off
+      with_Code_JAN10
+    * ⁰  Gift_Cards
+ Stores Find a Store
+ Account
+**** Sign In or Register ****
+Sign_In
+
+Register
+
+
+Final_Day_of_Sale Extra_10%_off_Sale_-_Use_Code_JAN10 Free_standard_delivery
+
+Modern_Slavery_Statement
+***** Modern Slavery Statement *****
+This statement relates to the financial year from March 2017 to February 2018.
+A successful global clothing retailer, at T.M.Lewin we run our business
+responsibly. We are committed to understanding modern slavery risks across the
+organisation and to ensuring that there is no modern slavery in our business or
+our supply chain. We work hard to respect the human rights of everyone we work
+with and to maintain the highest ethical standards.
+Founded in 1898 when Thomas Mayes Lewin (T.M.Lewin) opened his first shop in
+Jermyn Street in London, our company has a long history. T.M.Lewin now has just
+under 100 stores in the UK, with new stores opening in countries across the
+world.
+We trade in Europe, Australia, South East Asia, US and Africa and our suppliers
+are based in Europe and across Asia. T.M.Lewin has a responsibility to be alert
+to and respond to risks associated with modern slavery in these locations.
+We take this responsibility seriously, ensuring all factories and suppliers
+that we work with are audited by an independent third party. These audits
+comply with the international industry standards set by the International
+Labour Organization (ILO). The main aims of the ILO are to promote rights at
+work, encourage decent employment opportunities, enhance social protection and
+strengthen dialogue on work-related issues, including Modern Slavery.
+All new suppliers are rigorously checked at T.M.Lewin. They are required to
+produce an independent audit report covering key areas such as Health and
+Safety, working hours and practices and child labour which comply with ILO
+standards. Where no report exists, T.M.Lewin will commission an independent
+third party audit before commencing work with the supplier. All suppliers must
+agree to T.M.Lewinâs comprehensive audit programme as part of the terms and
+conditions agreement to work with T.M.Lewin.
+Audit programmes highlight good working practices as well as areas of concern.
+T.M.Lewin investigates all areas of non-compliance with suppliers, working with
+them to agree and deliver immediate action to address all issues. We will
+terminate a supplier agreement where non-compliance is not rectified.
+We are committed to maintaining a high level of understanding of and managing
+the risks of modern slavery in our supply chain and across the wider T.M.Lewin
+business. This statement has been approved by the Board of Directors at
+T.M.Lewin.
+
+
+Geoff Quinn - Chief Executive Officer, T.M.Lewin
+**** BE THE FIRST ****
+
+FIRSTNAME [cd_FIRSTNAME        ]
+LASTNAME [cd_LASTNAME         ]
+Email [email               ]
+SUBMIT
+By clicking submit, you agree to receiving communications from T.M.Lewin. To
+view our full privacy promise, please click here.
+**** Customer Services ****
+    * Help
+    * Delivery_Information
+    * Check_Order
+    * Returns
+**** About ****
+    * About_Us
+    * Careers
+    * Affiliates
+    * Wholesale
+    * Student_Discount
+    * Ethics
+**** Our Products ****
+    * The_Shirt_Fit_Guide
+    * Size_Guides
+    * Gift_Cards
+**** Contact us ****
+    * customer.services@tmlewin.co.uk
+    * Call_0330_056_3365
+United_States_($)
+Europe_(€)
+Australia_(A$)
+United_Arab_Emirates_(Ø¯.Ø¥)
+Czech_Republic_(€)
+UK (£)
+© T.M.Lewin & Sons Limited 2020
+    * Privacy_Policy
+    * Cookie_Use
+    * T&CS
+    * SiteMap
+Secure shopping guaranteed
+

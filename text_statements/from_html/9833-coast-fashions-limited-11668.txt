@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Coast_Stores]
+    * UK
+    * Logout
+    *
+
+ [w                   ]
+Menu
+[Coast_Stores]
+Stores
+    * New_In
+      All_New_In
+      Back_In_Stock
+      [https://coast.btxmedia.com/pws/client/hp/2017/wk16/nav-banners/sale.jpg]
+      Shop_Sale
+    * Clothing
+      By_Category
+      All_Clothing
+      All_Dresses
+      Short_Dresses
+      Midi_Dresses
+      Maxi_Dresses
+      Petite_&_Shorter_Length_Outfits
+      Jackets,_Coats_&_Cover_Ups
+      Tops
+      Trousers_&_Jumpsuits
+      Skirts
+      By_Collection
+      Evening_Dresses_&_Outfits
+      Race_Day_Dresses_&_Outfits
+      Party_Dresses_&_Outfits
+      Graduation_Dresses_&_Outfits
+      Workwear_Dresses_&_Outfits
+      Little_Black_Dress
+      Prom
+      Coast_Friday
+
+      Bestsellers
+      Monochrome
+      Pastels
+    * Accessories
+      All_Accessories
+      Bags_&_Clutches
+      Hair_Accessories
+      Fashion_Jewellery
+      Scarves_&_Wraps
+      Gifts_&_Treats
+      [https://coast.btxmedia.com/pws/client/hp/2017/wk16/nav-banners/sale.jpg]
+      Shop_Sale
+    * Weddings
+      All_Weddings
+      Bridesmaid_Dresses_&_Outfits
+      Wedding_Guest_Dresses_&_Outfits
+      Mother_Of_The_Bride_Outfits
+      [https://coast.btxmedia.com/pws/client/hp/2017/wk16/nav-banners/sale.jpg]
+      Shop_Sale
+    * Inspiration
+      #MyCoastStyle
+      All_Inspiration
+      Coast_Stories_Winner
+      Limited_Edition
+      Summer_Edit
+      SS17_Lookbook
+      Wedding_Guest_Looks
+      Prom
+      The_Race_Day_Edit
+      Race_Day_Mantras
+      Weekend_Outfits
+      Holiday_Shop
+      [https://coast.btxmedia.com/pws/client/hp/2017/wk16/nav-banners/sale.jpg]
+      Shop_Sale
+    * Sale
+      All_Sale
+      Sale_Dresses
+      Sale_Short_Dresses
+      Sale_Maxi_Dresses
+      Sale_Tops
+      Sale_Skirts
+      Sale_Trousers
+      Sale_Jackets_&_Coats
+      Sale_Accessories
+      Sale_Jewellery
+      [https://coast.btxmedia.com/pws/client/hp/2017/wk16/nav-banners/sale.jpg]
+      Shop_Sale
+    *   My_account
+      Logout
+    *   Wishlist
+    * UK
+       Algeria   Argentina   Australia   Austria   Belgium   Brazil   Bulgaria
+      Canada   Chile   Cyprus   Czech Republic   Denmark   Estonia   Finland
+      France
+       Germany   Gibraltar   Greece   Hong Kong   Hungary   Iceland   Ireland
+      Italy   Latvia   Lebanon   Lithuania   Luxembourg   Malta   Mexico
+      Moldova
+       Morroco   Netherlands   Pakistan   Poland   Portugal   Republic of Korea
+      Romania   Slovakia   Slovenia   Spain   Sweden   Thailand   Tunisia   USA
+      United Kingdom
+   1. Home
+   2. Modern Slavery Act
+****** Modern Slavery Act ******
+In 2015 the Modern Slavery Act came into force requiring companies to take
+steps to address the risk of modern slavery within their own operations and
+supply chains. In accordance with Part Six, Section 54 of the Act, this
+statement outlines the measures Coast has adopted to comply with our
+responsibilities.
+As is fundamental to our overall approach to ethical trading, Coast recognises
+business can positively influence human rights. In relation to the Act, we have
+considered how we can take the most effective action to meet our duties and
+have decided to focus our efforts on education and transparency. We commit to
+use our leverage, where it may be needed, to prevent against human rights
+infringements.
+Structure
+Founded in 1996, Coast is a UK based, multi-channel, occasionwear focused
+womenswear fashion brand. The brand is sold in 28 countries worldwide via our
+own stores, concessions, franchise/wholesale partners and websites. We directly
+employ 969 people across our own operations in four countries. Our supply base
+comprises 31 suppliers that use approximately 61 factories in eight countries.
+Policies
+Coastâs code of conduct, adopted over 10 years ago, is based on norms defined
+by the International Labour Organisation and prohibits forced and bonded
+labour. It remains the cornerstone of our ethical trading strategy. Building on
+this, in 2010 we banned Uzbek cotton owing to ongoing reports of forced and
+child labour in Uzbekistan.
+Recently we reviewed the effectiveness of our policies in relation to the
+Modern Slavery Act. In recognition of the fact that foreign migrant and agency
+workers, in particular, may be vulnerable to abuse, we decided it was judicious
+to strengthen our efforts and adopted a specific policy on the prevention of
+forced labour and human trafficking. The policy was developed with the
+expertise of VeritÃ©, a human rights NGO. To illustrate the more descriptive
+and explicit standards of the new policy, applied to our business and required
+of our suppliers, some examples are given:
+    * Terms and conditions of employment must be clearly communicated to
+      workers during the early stages of recruitment (i.e. before contracts are
+      signed)
+    * Employers must ensure workers have valid documentation before commencing
+      work in a foreign country and these are renewed in a timely manner
+    * Recruitment agencies/labour brokers, if used, must only charge a
+      reasonable recruitment fee, which only the employer should pay
+    * Workers must not be required to be present before the start of their
+      shifts nor attend meetings or perform tasks outside of working hours
+We should add that, even before the new policy, it is likely our audit
+programme would have identified if these or similar practices were taking
+place. There are several advantages to the policy, which can help preclude
+these practices from taking place in the first place (i.e. before an audit),
+generate awareness of unfair and unreasonable employment practices with direct
+partners and potentially help normalise and spread respect for human rights
+within the wider private sector.
+Due diligence and risk management
+Coastâs audit programme is the chief means of carrying out due diligence on
+our suppliers. Within the scope of the audit, contract terms and personnel
+files are reviewed and the wider recruitment and termination procedure
+examined. In doing so, this can help determine if there are practices that
+could constitute or lead to forced labour. We use a range of different tools,
+including internal audits in China performed by our ethical trading team,
+third-party assessments commissioned from a limited number of labour
+specialists and independent audits that are shared with peers to prevent
+unnecessary and costly duplication of effort. Our buying teams may also visit
+factory facilities, which provide further observation and scrutiny of
+manufacturing sites.
+We continue to map our first tier supply chain, which forms part of our ongoing
+ethical trading efforts, and, in doing so, provides us with crucial visibility
+of where our products are made. All suppliers are required to inform us in
+advance if they wish to change their production facility.
+Within the business we have a whistleblowing policy which is there to encourage
+the disclosure of unlawful or otherwise business critical information that
+might not otherwise be disclosed, including the exposure of risk of modern
+slavery and human trafficking.
+Training and capacity building
+In preparation for the Act, we attended industry training courses and seminars
+on how modern slavery can occur and what businesses can do to avoid these
+abuses.
+We regularly run ethical trading courses, including the subject of forced
+labour, for our commercial teams, and, in particular, our buying teams. We plan
+to repeat and enhance the training going forward.
+[Coast - Managing Director]
+Andrew Skinner
+Managing Director
+
+[Free_click_and_collect]
+Free_delivery_over_£125
+Free_returns_with_[Doddle]
+ Join the party
+Sign up
+[Unknown INPUT type] Sign up to our newsletter
+
+[Free_click_and_collect]
+Free_delivery_over_£125
+Free_returns_with_[Doddle]
+    * ***** Customer Services *****
+          o Help_&_FAQs
+          o Contact_Us
+          o Student_Discount
+          o Legal
+          o Modern_Slavery_Act
+    * ***** Other Services *****
+          o Gift_Cards
+          o Delivery_&_Returns
+          o Find_a_Store
+    * ***** All About Coast *****
+          o The_Coast_Story
+          o Careers
+          o Franchise_&_Wholesale_Enquiries
+          o Become_an_Affiliate
+          o Site_Map
+Coast 2017
+Find_out_how_we_use_Cookies...
